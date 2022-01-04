@@ -1,0 +1,125 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.839 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 03/01/2022 17:11:54
+Running folder C:\Users\Suturn\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 6074 MB RAM
+java path=C:\Users\Suturn\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+AMD Ryzen 5 3400G with Radeon Vega Graphics
+ AMD Radeon(TM) RX Vega 11 Graphics, AMD Radeon Graphics Processor (0x15D8), 5070 MB
+-------------------------------------------------------
+Selected locale: pt_PT
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/update_2.0.json?version=2.839&client=58c9f680-2261-48ed-ac80-620ef7b530f5
+[Updater] Request time: 1020 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 35 / 112 MB
+Garbage collector completed: 16 / 112 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\Suturn\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\Suturn\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 730 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index_pt.htm
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index_pt.htm during 3
+[Browser@1068517127] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index_pt.htm"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[VersionManager] Refreshing versions remotely...
+Started! (26563 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 409 ms.
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 133 ms.
+[ExtraVersionList] Got in 202 ms
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 264 ms.
+[SkinVersionList] Got in 278 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 586 ms.
+[OfficialVersionList] Got in 1069 ms
+[VersionManager] Versions has been refreshed (1571 ms)
+java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+at java.net.TwoStacksPlainSocketImpl.socketBind(Native Method)
+at java.net.TwoStacksPlainSocketImpl.socketBind(TwoStacksPlainSocketImpl.java:133)
+at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:513)
+at java.net.TwoStacksPlainSocketImpl.bind(TwoStacksPlainSocketImpl.java:106)
+at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:180)
+at java.net.ServerSocket.bind(ServerSocket.java:375)
+at java.net.ServerSocket.<init>(ServerSocket.java:237)
+at javax.net.ssl.SSLServerSocket.<init>(SSLServerSocket.java:181)
+at sun.security.ssl.SSLServerSocketImpl.<init>(SSLServerSocketImpl.java:78)
+at sun.security.ssl.SSLServerSocketFactoryImpl.createServerSocket(SSLServerSocketFactoryImpl.java:87)
+at org.apache.http.impl.bootstrap.HttpServer.start(HttpServer.java:112)
+at org.tlauncher.tlauncher.site.play.SitePlay.init(SitePlay.java:86)
+at org.tlauncher.tlauncher.site.play.SitePlay.onVersionsRefreshed(SitePlay.java:54)
+at org.tlauncher.tlauncher.managers.VersionManager.refresh(VersionManager.java:157)
+at org.tlauncher.tlauncher.managers.VersionManager.startRefresh(VersionManager.java:169)
+at org.tlauncher.tlauncher.managers.VersionManager.lambda$asyncRefresh$0(VersionManager.java:179)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at org.tlauncher.util.async.RunnableThread.run(RunnableThread.java:15)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:21)
+at org.tlauncher.util.async.RunnableThread.<init>(RunnableThread.java:7)
+at org.tlauncher.util.async.AsyncThread$1.newThread(AsyncThread.java:12)
+at java.util.concurrent.ThreadPoolExecutor$Worker.<init>(ThreadPoolExecutor.java:619)
+at java.util.concurrent.ThreadPoolExecutor.addWorker(ThreadPoolExecutor.java:932)
+at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1378)
+at org.tlauncher.util.async.AsyncThread.execute(AsyncThread.java:17)
+at org.tlauncher.tlauncher.updater.client.Updater.asyncFindUpdate(Updater.java:92)
+at org.tlauncher.tlauncher.rmo.TLauncher.<init>(TLauncher.java:162)
+at org.tlauncher.tlauncher.rmo.TLauncher$$FastClassByGuice$$7106277c.newInstance(<generated>)
+at com.google.inject.internal.DefaultConstructionProxyFactory$FastClassProxy.newInstance(DefaultConstructionProxyFactory.java:89)
+at com.google.inject.internal.ConstructorInjector.provision(ConstructorInjector.java:111)
+at com.google.inject.internal.ConstructorInjector.construct(ConstructorInjector.java:90)
+at com.google.inject.internal.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:268)
+at com.google.inject.internal.InjectorImpl$2$1.call(InjectorImpl.java:1019)
+at com.google.inject.internal.InjectorImpl.callInContext(InjectorImpl.java:1092)
+at com.google.inject.internal.InjectorImpl$2.get(InjectorImpl.java:1015)
+at com.google.inject.assistedinject.FactoryProvider2.invoke(FactoryProvider2.java:776)
+at com.sun.proxy.$Proxy9.create(Unknown Source)
+at org.tlauncher.util.guice.GuiceModule.getTlauncher(GuiceModule.java:125)
+at org.tlauncher.util.guice.GuiceModule$$FastClassByGuice$$58e5bf0.invoke(<generated>)
+... and 14 more
+
+local server started
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 90 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 178 ms.
+[Double running] clear time label
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now

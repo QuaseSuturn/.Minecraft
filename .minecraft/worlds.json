@@ -1,0 +1,39 @@
+{
+  "worlds": [
+    {
+      "name": "Mundo da Heloise",
+      "source": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\saves\\Mundo da Heloise",
+      "destination": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\Mundo da Heloise",
+      "lastChanged": "2021-12-20T21:16:37",
+      "backup": false
+    },
+    {
+      "name": "Novo mundo",
+      "source": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\saves\\Novo mundo",
+      "destination": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\Novo mundo",
+      "lastChanged": "2021-09-02T16:16:42",
+      "backup": false
+    },
+    {
+      "name": "Novo mundo (1)",
+      "source": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\saves\\Novo mundo (1)",
+      "destination": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\Novo mundo (1)",
+      "lastChanged": "2021-09-02T17:08:14",
+      "backup": false
+    },
+    {
+      "name": "blablablabal",
+      "source": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\saves\\blablablabal",
+      "destination": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\blablablabal",
+      "lastChanged": "2021-09-03T12:41:31",
+      "backup": false
+    },
+    {
+      "name": "Suturn\u0026Lunamiibunny",
+      "source": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\saves\\Suturn\u0026Lunamiibunny",
+      "destination": "C:\\Users\\Suturn\\AppData\\Roaming\\.minecraft\\backup\\saves\\saves\\Suturn\u0026Lunamiibunny",
+      "lastChanged": "2022-01-02T19:41:46",
+      "backup": false
+    }
+  ]
+}

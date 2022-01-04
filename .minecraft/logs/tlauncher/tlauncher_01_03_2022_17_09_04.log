@@ -1,0 +1,1492 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.839 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 03/01/2022 17:09:08
+Running folder C:\Users\Suturn\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 6074 MB RAM
+java path=C:\Users\Suturn\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+AMD Ryzen 5 3400G with Radeon Vega Graphics
+ AMD Radeon(TM) RX Vega 11 Graphics, AMD Radeon Graphics Processor (0x15D8), 5070 MB
+-------------------------------------------------------
+Selected locale: pt_PT
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/update_2.0.json?version=2.839&client=58c9f680-2261-48ed-ac80-620ef7b530f5
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 54 / 95 MB
+Garbage collector completed: 17 / 95 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\Suturn\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\Suturn\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[Updater] Request time: 1439 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 175 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index_pt.htm
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[Downloader2] Loaded configuration: good
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index_pt.htm during 3
+[Browser@730824889] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index_pt.htm"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+Started! (10692 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 393 ms.
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 114 ms.
+[SkinVersionList] Got in 153 ms
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 263 ms.
+[ExtraVersionList] Got in 319 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 619 ms.
+[OfficialVersionList] Got in 746 ms
+[VersionManager] Versions has been refreshed (1196 ms)
+local server started
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 94 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 189 ms.
+[Double running] clear time label
+AccountComboBox.validte pre game launch username Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat} FREE
+onAuthPassed
+saved account Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.839
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: OptiFine 1.16.5
+[Launcher] Selected account: Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat}
+[Launcher] Version sync info: VersionSyncInfo{id='OptiFine 1.16.5',
+local=CompleteVersion{id='OptiFine 1.16.5', time=Wed Jan 13 13:09:18 BRT 2021, release=Thu Jan 14 13:05:32 BRT 2021, type=modified, class=net.minecraft.launchwrapper.Launch, minimumVersion=21, assets='1.16', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@4a4dead3, libraries=[Library{name='optifine:OptiFine:1.16.5_HD_U_G8', rules=null, natives=null, extract=null, packed='null'}, Library{name='optifine:launchwrapper-of:2.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:1.2.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:66.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:4.0.26', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:2.1.28', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@60c34c6d, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@62474d70, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='OptiFine 1.16.5', time=Mon Dec 13 06:15:30 BRT 2021, release=Wed Jan 13 13:05:36 BRT 2021, type=modified, source=EXTRA_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@4a4dead3}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\Suturn\AppData\Roaming\.minecraft\assets\indexes\1.16.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 9873 ms.
+[TLauncherManager] add required libraries: OptiFine 1.16.5
+[VersionManager] Required for version OptiFine 1.16.5: []
+[TLauncherManager] add required libraries: OptiFine 1.16.5
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 417 ms.
+Minecraft requires java version: 8, java path: C:\Users\Suturn\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (74 ms)
+[Launcher] Error occurred:
+org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher$MinecraftLauncherAborted: shown skin message
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.checkExtraConditions(MinecraftLauncher.java:719)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftLauncher.java:275)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:511)
+at org.tlauncher.tlauncher.ui.login.LoginForm.runProcess(LoginForm.java:166)
+at org.tlauncher.tlauncher.ui.login.LoginForm.access$000(LoginForm.java:44)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.iterateOnce(LoginForm.java:384)
+at org.tlauncher.util.async.LoopedThread.run(LoopedThread.java:38)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:7)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:11)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:377)
+at org.tlauncher.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:82)
+at org.tlauncher.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:47)
+at org.tlauncher.tlauncher.ui.MainPane.<init>(MainPane.java:53)
+at org.tlauncher.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:95)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:338)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:211)
+
+[Launcher] Launcher exited.
+AccountComboBox.validte pre game launch username Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat} FREE
+onAuthPassed
+saved account Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.839
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: OptiFine 1.16.5
+[Launcher] Selected account: Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat}
+[Launcher] Version sync info: VersionSyncInfo{id='OptiFine 1.16.5',
+local=CompleteVersion{id='OptiFine 1.16.5', time=Wed Jan 13 13:09:18 BRT 2021, release=Thu Jan 14 13:05:32 BRT 2021, type=modified, class=net.minecraft.launchwrapper.Launch, minimumVersion=21, assets='1.16', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@4a4dead3, libraries=[Library{name='optifine:OptiFine:1.16.5_HD_U_G8', rules=null, natives=null, extract=null, packed='null'}, Library{name='optifine:launchwrapper-of:2.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:1.2.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:66.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:4.0.26', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:2.1.28', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@5aa92ea2, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@8bc3402, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='OptiFine 1.16.5', time=Mon Dec 13 06:15:30 BRT 2021, release=Wed Jan 13 13:05:36 BRT 2021, type=modified, source=EXTRA_VERSION_REPO, list=net.minecraft.launcher.updater.ExtraVersionList@4a4dead3}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\Suturn\AppData\Roaming\.minecraft\assets\indexes\1.16.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 221 ms.
+[TLauncherManager] add required libraries: OptiFine 1.16.5
+[VersionManager] Required for version OptiFine 1.16.5: []
+[TLauncherManager] add required libraries: OptiFine 1.16.5
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 406 ms.
+Minecraft requires java version: 8, java path: C:\Users\Suturn\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[TLauncherManager] library will be replaced: com.mojang:authlib:2.1.28
+[TLauncherManager] library will be replaced: com.mojang:patchy:1.2.3
+[TLauncherManager] library will be added as required: net.minecraft:launchwrapper:1.12
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:6.2
+[TLauncherManager] library will be added as required: org.ow2.asm:asm:6.2
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:6.2
+[TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_opti_1.16.5:1.19_opti
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+backup world is active: true
+Add new world to backup list: Suturn&Lunamiibunny
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\Suturn\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\Suturn\AppData\Roaming\.minecraft\versions\OptiFine 1.16.5\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\tlauncher\tl_skin_cape_opti_1.16.5\1.19_opti\tl_skin_cape_opti_1.16.5-1.19_opti.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\6.2\asm-tree-6.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\6.2\asm-6.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\6.2\asm-commons-6.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.16.5_HD_U_G8\OptiFine-1.16.5_HD_U_G8.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\optifine\launchwrapper-of\2.2\launchwrapper-of-2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\1.2.3\patchy-1.2.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\2.0.28.1\authlib-2.0.28.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\versions\OptiFine 1.16.5\OptiFine 1.16.5.jar -Xmn128M -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\Suturn\AppData\Roaming\.minecraft -Dlog4j.configurationFile=C:\Users\Suturn\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml net.minecraft.launchwrapper.Launch --username WeirdCat --version OptiFine 1.16.5 --gameDir C:\Users\Suturn\AppData\Roaming\.minecraft --assetsDir C:\Users\Suturn\AppData\Roaming\.minecraft\assets --assetIndex 1.16 --uuid 759619128d6b4389a6e90446af5afc1f --accessToken null --userType mojang --versionType modified --width 925 --height 530 --tweakClass optifine.OptiFineTweaker --tweakClass org.tlauncher.tweaker.Tweaker
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after 
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=Servidor de Minecraft, address=mc.argarian.net, ip=mc.argarian.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=mc.universocraft.com, ip=mc.universocraft.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=blocksmc.com, ip=blocksmc.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=Jartexnetwork.com, ip=Jartexnetwork.com, port=null, hideAddress=false, acceptTextures=1), Server(name=Servidor de Minecraft, address=replay.craftlandia.com.br, ip=replay.craftlandia.com.br, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=jogar.absolutgg.com.br, ip=jogar.absolutgg.com.br, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=playnetwork.com.br, ip=playnetwork.com.br, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft OptiFine 1.16.5...
+[Launcher] Launching in: C:\Users\Suturn\AppData\Roaming\.minecraft
+Starting garbage collector: 219 / 254 MB
+Garbage collector completed: 40 / 259 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[17:10:90] [main/INFO]: Loading tweak class name optifine.OptiFineTweaker
+[17:10:91] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[17:10:91] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[main INFO] Tweaker: OptiFine detected.
+[17:10:96] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+OptiFineTweaker: acceptOptions
+OptiFineTweaker: injectIntoClassLoader
+OptiFine ClassTransformer
+OptiFine ZIP file: C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.16.5_HD_U_G8\OptiFine-1.16.5_HD_U_G8.jar
+[17:10:98] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+Log Path: C:\Users\Suturn\AppData\Roaming\.minecraft\.\tlLoader\Tweaker.log
+[main INFO] Using Tweaker
+[main INFO] Tweaker: acceptOptions
+[main INFO] Tweaker: injectIntoClassLoader
+[TLSkinCape] Current TLSkinCape version is 1.19
+[TLSkinCape] Current Minecraft version is 1.16.5.
+[TLSkinCape] OptiFine detected.
+[main INFO] Loaded as a library.
+OptiFineTweaker: getLaunchArguments
+[main INFO] Tweaker: getLaunchArguments
+OptiFineTweaker: getLaunchTarget
+[Injection] Injection into net.minecraft.client.main.Main ended successfully with 1 injections.
+[17:10:32] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[Injection] Injection into doy ended successfully with 1 injections.
+[Injection] Injection into djz ended successfully with 1 injections.
+[17:10:45] [main/INFO]: [OptiFine] (Reflector) Field not found: World.tileEntitiesToBeRemoved
+[Injection] Injection into dzj ended successfully with 1 injections.
+[17:10:66] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[17:10:66] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
+[17:10:66] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[17:10:69] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
+[17:10:36] [main/INFO]: [OptiFine] (Reflector) Method not present: aeg.createOptional
+[17:11:25] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[17:11:82] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:11:37] [main/INFO]: Setting user: WeirdCat
+[17:11:02] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[17:11:69] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[17:11:16] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[17:11:07] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.fml.loading.progress.EarlyProgressVisualization.handOffWindow
+[17:11:77] [main/INFO]: [OptiFine] 
+[17:11:77] [main/INFO]: [OptiFine] OptiFine_1.16.5_HD_U_G8
+[17:11:82] [main/INFO]: [OptiFine] Build: 20210515-161946
+[17:11:82] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[17:11:82] [main/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[17:11:82] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[17:11:82] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[17:11:83] [main/INFO]: [OptiFine] OpenGL: AMD 15D8:C8, version 4.6.13596 Compatibility Profile Context 20.10.20 27.20.1020.1, ATI Technologies Inc.
+[17:11:83] [main/INFO]: [OptiFine] OpenGL Version: 4.6.13596
+[17:11:83] [main/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[17:11:01] [main/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[17:11:14] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[17:11:29] [main/INFO]: [Shaders] OpenGL Version: 4.6.13596 Compatibility Profile Context 20.10.20 27.20.1020.1
+[17:11:29] [main/INFO]: [Shaders] Vendor:  ATI Technologies Inc.
+[17:11:29] [main/INFO]: [Shaders] Renderer: AMD 15D8:C8
+[17:11:29] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[17:11:29] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[17:11:29] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[17:11:29] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[17:11:29] [main/INFO]: [Shaders] Load shaders configuration.
+[17:11:30] [main/INFO]: [Shaders] Save shaders configuration.
+[17:11:30] [main/INFO]: [Shaders] No shaderpack loaded.
+[17:11:38] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[17:11:86] [VersionCheck/INFO]: [OptiFine] Version found: G7
+[17:11:57] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[Injection] Injection into dvd ended successfully with 1 injections.
+[Injection] Injection into ehu ended successfully with 1 injections.
+[17:11:22] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+[17:11:98] [main/INFO]: Narrator library for x64 successfully loaded
+[17:11:38] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.screen.ModListScreen
+[17:11:48] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[17:11:60] [main/INFO]: Reloading ResourceManager: Default
+[17:11:65] [main/INFO]: [OptiFine] *** Reloading textures ***
+[17:11:65] [main/INFO]: [OptiFine] Resource packs: Default
+[17:11:08] [Worker-Main-9/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoaderRegistry
+[17:11:22] [Worker-Main-14/INFO]: [OptiFine] Multitexture: false
+[17:11:22] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[17:11:22] [Worker-Main-13/INFO]: [OptiFine] Multitexture: false
+[17:11:50] [main/INFO]: [OptiFine] (Reflector) Method not present: eab.canRenderInLayer
+[17:11:50] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[17:11:50] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[17:11:50] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
+[17:11:50] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[17:11:50] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[17:11:50] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
+[17:11:50] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkDataEvent$Save
+[17:11:50] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+[17:11:50] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Unload
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityLeaveWorldEvent
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.isCanceled
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.getResult
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Method not present: eaw.getTexture
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[17:11:51] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
+[17:11:52] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.shouldDisplayFluidOverlay
+[17:11:52] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
+[17:11:52] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
+[17:11:52] [main/INFO]: [OptiFine] (Reflector) Method not present: aqe.getTags
+[17:11:52] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[17:11:53] [main/INFO]: [OptiFine] (Reflector) Method not present: cuw.getTags
+[17:11:53] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[17:11:53] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+[17:11:53] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+[17:11:54] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
+[17:11:54] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+[17:11:99] [main/INFO]: [OptiFine] (Reflector) Method not present: cfw.getWorldForge
+[17:11:99] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[17:12:00] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[17:12:00] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
+[17:12:00] [main/INFO]: [OptiFine] (Reflector) Method not present: djw.setKeyConflictContext
+[17:12:00] [main/INFO]: [OptiFine] (Reflector) Method not present: djw.setKeyModifierAndCode
+[17:12:00] [main/INFO]: [OptiFine] (Reflector) Method not present: djw.getKeyModifier
+[17:12:00] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
+[17:12:00] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+[17:12:00] [main/INFO]: [OptiFine] (Reflector) Method not present: eab.canRenderInLayer
+[17:12:19] [main/INFO]: [OptiFine] (Reflector) Constructor not present: aak, params: class aal, int, class java.lang.Object, boolean
+[17:12:19] [main/INFO]: [OptiFine] (Reflector) Method not present: aak.isForceTicks
+[17:12:19] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
+[17:12:28] [main/INFO]: [OptiFine] (Reflector) Method not present: dzv.getCloudRenderHandler
+[17:12:28] [main/INFO]: [OptiFine] (Reflector) Method not present: dzv.getSkyRenderHandler
+[17:12:28] [main/INFO]: [OptiFine] (Reflector) Method not present: dzv.getWeatherParticleRenderHandler
+[17:12:28] [main/INFO]: [OptiFine] (Reflector) Method not present: dzv.getWeatherRenderHandler
+[17:12:37] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[17:12:37] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[17:12:37] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[17:12:37] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[17:12:40] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[17:12:40] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.entity.PartEntity
+[17:12:40] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+[17:12:45] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[17:12:45] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[17:12:45] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderGameOverlayEvent$BossInfo
+[17:12:47] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[17:12:51] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[17:12:53] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[17:12:57] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderNameplateEvent
+[17:12:57] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[17:12:61] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
+[17:12:63] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[17:12:63] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[17:12:87] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[17:12:97] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[17:12:17] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[17:12:31] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[17:12:32] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[17:12:32] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[17:12:32] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[17:12:33] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[17:12:33] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[17:12:33] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[17:12:34] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[17:12:34] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[17:12:34] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[17:12:35] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[17:12:35] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[17:12:35] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[17:12:35] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[17:12:38] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[17:12:38] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[17:12:39] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[17:12:39] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[17:12:39] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[17:12:40] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[17:12:40] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[17:12:40] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[17:12:40] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[17:12:41] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[17:12:45] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[17:12:45] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[17:12:46] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[17:12:46] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[17:12:46] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[17:12:46] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[17:12:47] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[17:12:47] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[17:12:47] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[17:12:47] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[17:12:47] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[17:12:47] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[17:12:47] [Worker-Main-9/INFO]: [OptiFine] Multipass connected textures: false
+[17:12:51] [Worker-Main-9/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[17:12:53] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 4
+[17:12:42] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[17:12:66] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[17:12:66] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[17:12:67] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[17:12:44] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[17:12:44] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[17:12:78] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[17:12:45] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[17:12:45] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[17:12:46] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[17:12:61] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[17:12:61] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[17:12:62] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[17:12:70] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[17:12:70] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[17:12:70] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[17:12:76] [Worker-Main-9/INFO]: [OptiFine] Sprite size: 64
+[17:12:76] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 6
+[17:12:07] [main/INFO]: OpenAL initialized.
+[17:12:10] [main/INFO]: Sound engine started
+[17:12:62] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[17:12:83] [main/INFO]: [OptiFine] Animated sprites: 43
+[17:12:83] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[17:12:84] [main/INFO]: [OptiFine] Animated sprites: 0
+[17:12:84] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[17:12:84] [main/INFO]: [OptiFine] Animated sprites: 0
+[17:12:84] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[17:12:85] [main/INFO]: [OptiFine] Animated sprites: 0
+[17:12:85] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[17:12:85] [main/INFO]: [OptiFine] Animated sprites: 0
+[17:12:85] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[17:12:85] [main/INFO]: [OptiFine] Animated sprites: 0
+[17:12:85] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[17:12:85] [main/INFO]: [OptiFine] Animated sprites: 0
+[17:12:00] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[17:12:00] [main/INFO]: [OptiFine] Animated sprites: 0
+[17:12:01] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[17:12:01] [main/INFO]: [OptiFine] Animated sprites: 0
+[17:12:01] [main/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[17:12:01] [main/INFO]: [OptiFine] Animated sprites: 0
+[17:12:02] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[17:12:16] [main/INFO]: [OptiFine] Disable Forge light pipeline
+[17:14:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:14:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:14:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:14:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:14:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:14:37] [main/INFO]: Reloading ResourceManager: Default
+[17:14:84] [main/INFO]: Loaded 7 recipes
+[17:14:80] [main/INFO]: Loaded 927 advancements
+[17:14:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:14:71] [Server thread/INFO]: Starting integrated minecraft server version 1.16.5
+[17:14:71] [Server thread/INFO]: Generating keypair
+[17:14:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:47] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:11] [main/INFO]: Preparando área de nascimento: 0%
+[17:14:36] [main/INFO]: Preparando área de nascimento: 83%
+[17:14:63] [main/INFO]: Time elapsed: 9364 ms
+[17:14:87] [Server thread/INFO]: Changing view distance to 11, from 10
+[17:14:81] [Server thread/INFO]: WeirdCat[local:E:9f39aa7c] logged in with entity id 123 at (-389.56285126497767, 71.0, -122.30638306717074)
+[17:14:96] [Server thread/INFO]: WeirdCat entrou na partida
+[17:14:46] [Server thread/INFO]: Saving and pausing game...
+[17:14:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na Brotheragem]'/minecraft:overworld
+[17:14:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na Brotheragem]'/minecraft:the_nether
+[17:14:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na Brotheragem]'/minecraft:the_end
+[17:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[17:14:17] [main/INFO]: Loaded 232 advancements
+[17:14:31] [main/INFO]: calculated cape performance:TEXTURE_272, middle time: 6.666666666666667
+[17:14:59] [main/INFO]: textures 'elitra_test_272' was added, skin: false,cape: true, max waiting: 248 ,during : 250517 
+[17:14:59] [main/INFO]: can use texture size:TEXTURE_136, middle time: 72.9
+[17:14:37] [main/WARN]: Received passengers for unknown entity
+[17:14:82] [Server thread/INFO]: Saving and pausing game...
+[17:14:88] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na Brotheragem]'/minecraft:overworld
+[17:14:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na Brotheragem]'/minecraft:the_nether
+[17:14:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na Brotheragem]'/minecraft:the_end
+[17:14:03] [Server thread/INFO]: WeirdCat lost connection: Desconectado
+[17:14:03] [Server thread/INFO]: WeirdCat saiu da partida
+[17:14:05] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[17:14:28] [Server thread/INFO]: Stopping server
+[17:14:28] [Server thread/INFO]: Saving players
+[17:14:28] [Server thread/INFO]: Saving worlds
+[17:14:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na Brotheragem]'/minecraft:overworld
+[17:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (Suturn&Lunamiibunny): All chunks are saved
+[17:14:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na Brotheragem]'/minecraft:the_nether
+[17:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:14:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na Brotheragem]'/minecraft:the_end
+[17:14:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:14:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (Suturn&Lunamiibunny): All chunks are saved
+[17:14:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:14:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:17:96] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:17:97] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:17:97] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:17:97] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:17:97] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:17:97] [main/INFO]: Reloading ResourceManager: Default
+[17:17:70] [main/INFO]: Loaded 7 recipes
+[17:17:86] [main/INFO]: Loaded 927 advancements
+[17:17:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:17:34] [Server thread/INFO]: Starting integrated minecraft server version 1.16.5
+[17:17:34] [Server thread/INFO]: Generating keypair
+[17:17:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:17:19] [main/INFO]: Preparando área de nascimento: 0%
+[17:17:06] [main/INFO]: Preparando área de nascimento: 0%
+[17:17:19] [main/INFO]: Preparando área de nascimento: 0%
+[17:17:65] [main/INFO]: Preparando área de nascimento: 0%
+[17:17:15] [main/INFO]: Preparando área de nascimento: 1%
+[17:17:86] [main/INFO]: Preparando área de nascimento: 3%
+[17:17:15] [main/INFO]: Preparando área de nascimento: 5%
+[17:17:65] [main/INFO]: Preparando área de nascimento: 8%
+[17:17:15] [main/INFO]: Preparando área de nascimento: 11%
+[17:17:67] [main/INFO]: Preparando área de nascimento: 12%
+[17:17:16] [main/INFO]: Preparando área de nascimento: 15%
+[17:17:66] [main/INFO]: Preparando área de nascimento: 17%
+[17:17:16] [main/INFO]: Preparando área de nascimento: 17%
+[17:17:66] [main/INFO]: Preparando área de nascimento: 22%
+[17:17:16] [main/INFO]: Preparando área de nascimento: 24%
+[17:17:86] [main/INFO]: Preparando área de nascimento: 24%
+[17:17:17] [main/INFO]: Preparando área de nascimento: 36%
+[17:17:66] [main/INFO]: Preparando área de nascimento: 36%
+[17:17:16] [main/INFO]: Preparando área de nascimento: 43%
+[17:17:65] [main/INFO]: Preparando área de nascimento: 43%
+[17:17:15] [main/INFO]: Preparando área de nascimento: 55%
+[17:17:66] [main/INFO]: Preparando área de nascimento: 60%
+[17:17:32] [main/INFO]: Preparando área de nascimento: 60%
+[17:17:66] [main/INFO]: Preparando área de nascimento: 73%
+[17:17:37] [main/INFO]: Preparando área de nascimento: 78%
+[17:17:66] [main/INFO]: Preparando área de nascimento: 84%
+[17:17:15] [main/INFO]: Preparando área de nascimento: 90%
+[17:17:66] [main/INFO]: Preparando área de nascimento: 98%
+[17:17:78] [main/INFO]: Time elapsed: 13633 ms
+[17:17:74] [Server thread/INFO]: Changing view distance to 11, from 10
+[17:17:79] [Server thread/INFO]: WeirdCat[local:E:ec5bb274] logged in with entity id 667 at (-150.5, 67.0, -193.5)
+[17:17:80] [Server thread/INFO]: WeirdCat entrou na partida
+[17:17:65] [Server thread/INFO]: Saving and pausing game...
+[17:17:66] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:overworld
+[17:17:81] [main/INFO]: Loaded 0 advancements
+[17:17:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_nether
+[17:17:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_end
+[17:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5249ms or 104 ticks behind
+[17:17:35] [Server thread/INFO]: Saving and pausing game...
+[17:17:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:overworld
+[17:17:98] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_nether
+[17:17:98] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_end
+[17:17:70] [main/INFO]: Using default channel type
+[17:17:78] [main/INFO]: Started serving on 49393
+[17:17:90] [main/INFO]: [CHAT] A partida local foi hospedada na porta 49393
+[17:18:12] [main/INFO]: Loaded 4 advancements
+[17:19:81] [User Authenticator #1/WARN]: Failed to verify username but will let them in anyway!
+[17:19:84] [Server thread/INFO]: xadumTt[/26.168.74.204:54964] logged in with entity id 1505 at (-158.5, 67.0, -195.5)
+[17:19:85] [Server thread/INFO]: xadumTt entrou na partida
+[17:19:88] [main/INFO]: [CHAT] xadumTt entrou na partida
+[17:19:82] [Server thread/WARN]: WeirdCat moved wrongly!
+[17:20:31] [main/INFO]: Loaded 16 advancements
+[17:20:80] [main/INFO]: Loaded 19 advancements
+[17:20:78] [main/INFO]: Loaded 28 advancements
+[17:20:78] [User Authenticator #2/WARN]: Failed to verify username but will let them in anyway!
+[17:20:80] [Server thread/INFO]: lepskaleps[/26.105.170.195:57665] logged in with entity id 2203 at (-160.5, 64.0, -182.5)
+[17:20:81] [Server thread/INFO]: lepskaleps entrou na partida
+[17:20:84] [main/INFO]: [CHAT] lepskaleps entrou na partida
+[17:20:81] [main/INFO]: Loaded 34 advancements
+[17:20:85] [Server thread/INFO]: WeirdCat conquistou o progresso [A Idade da Pedra]
+[17:20:88] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [A Idade da Pedra]
+[17:20:90] [main/INFO]: Loaded 49 advancements
+[17:22:04] [Server thread/INFO]: WeirdCat conquistou o progresso [Salto de qualidade]
+[17:22:05] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Salto de qualidade]
+[17:22:05] [main/INFO]: Loaded 54 advancements
+[17:22:26] [main/INFO]: Loaded 56 advancements
+[17:23:89] [main/INFO]: Loaded 57 advancements
+[17:24:25] [main/INFO]: Loaded 71 advancements
+[17:24:51] [main/INFO]: Loaded 90 advancements
+[17:24:71] [main/INFO]: Loaded 93 advancements
+[17:25:15] [main/INFO]: Loaded 93 advancements
+[17:25:69] [Server thread/WARN]: Fetching packet for removed entity bcv['Muda de carvalho'/3677, l='ServerLevel[Só na brotheragem]', x=-156.29, y=70.00, z=-232.13]
+[17:25:14] [main/INFO]: Loaded 93 advancements
+[17:25:07] [main/INFO]: Loaded 102 advancements
+[17:26:99] [main/INFO]: Loaded 105 advancements
+[17:27:60] [main/INFO]: Loaded 106 advancements
+[17:27:25] [User Authenticator #3/WARN]: Failed to verify username but will let them in anyway!
+[17:27:30] [Server thread/INFO]: lunamiibunny[/26.252.3.25:60419] logged in with entity id 5806 at (-157.5, 67.0, -194.5)
+[17:27:31] [Server thread/INFO]: lunamiibunny entrou na partida
+[17:27:34] [main/INFO]: [CHAT] lunamiibunny entrou na partida
+[17:29:65] [Server thread/INFO]: lepskaleps conquistou o progresso [A Idade da Pedra]
+[17:29:67] [main/INFO]: [CHAT] lepskaleps conquistou o progresso [A Idade da Pedra]
+[17:29:70] [main/INFO]: Loaded 118 advancements
+[17:30:07] [User Authenticator #4/WARN]: Failed to verify username but will let them in anyway!
+[17:30:10] [Server thread/INFO]: felpspintudo[/26.130.119.113:49782] logged in with entity id 6761 at (-152.5, 64.0, -186.5)
+[17:30:12] [Server thread/INFO]: felpspintudo entrou na partida
+[17:30:16] [main/INFO]: [CHAT] felpspintudo entrou na partida
+[17:31:10] [Server thread/INFO]: <xadumTt> genmte temn un fenboy aq socoror
+[17:31:12] [main/INFO]: [CHAT] <xadumTt> genmte temn un fenboy aq socoror
+[17:31:46] [main/INFO]: Loaded 119 advancements
+[17:32:96] [Server thread/INFO]: <xadumTt> -141 69 -212
+[17:32:97] [main/INFO]: [CHAT] <xadumTt> -141 69 -212
+[17:32:15] [Server thread/INFO]: WeirdCat conquistou o progresso [Caçador de monstros]
+[17:32:17] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Caçador de monstros]
+[17:32:22] [main/INFO]: Loaded 122 advancements
+[17:32:55] [main/INFO]: Loaded 122 advancements
+[17:32:82] [Server thread/INFO]: xadumTt conquistou o progresso [Bons sonhos]
+[17:32:86] [main/INFO]: [CHAT] xadumTt conquistou o progresso [Bons sonhos]
+[17:32:50] [Server thread/INFO]: lunamiibunny conquistou o progresso [Bons sonhos]
+[17:32:52] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [Bons sonhos]
+[17:33:90] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[17:33:51] [main/INFO]: Loaded 124 advancements
+[17:33:10] [Server thread/INFO]: WeirdCat conquistou o progresso [Bons sonhos]
+[17:33:11] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Bons sonhos]
+[17:33:14] [main/INFO]: Loaded 124 advancements
+[17:33:20] [Server thread/INFO]: lunamiibunny conquistou o progresso [A Idade da Pedra]
+[17:33:23] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [A Idade da Pedra]
+[17:33:98] [Server thread/INFO]: lepskaleps conquistou o progresso [Salto de qualidade]
+[17:33:00] [main/INFO]: [CHAT] lepskaleps conquistou o progresso [Salto de qualidade]
+[17:34:76] [Server thread/INFO]: <xadumTt> BETONEIRA
+[17:34:77] [main/INFO]: [CHAT] <xadumTt> BETONEIRA
+[17:34:49] [main/INFO]: Loaded 124 advancements
+[17:34:84] [Server thread/INFO]: lunamiibunny conquistou o progresso [Salto de qualidade]
+[17:34:84] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [Salto de qualidade]
+[17:35:49] [Server thread/INFO]: xadumTt lost connection: Desconectado
+[17:35:49] [Server thread/INFO]: xadumTt saiu da partida
+[17:35:52] [main/INFO]: [CHAT] xadumTt saiu da partida
+[17:36:12] [User Authenticator #5/WARN]: Failed to verify username but will let them in anyway!
+[17:36:30] [Server thread/INFO]: xadumTt[/26.168.74.204:55038] logged in with entity id 13042 at (-142.07851824859839, 67.0, -210.60450111439303)
+[17:36:31] [Server thread/INFO]: xadumTt entrou na partida
+[17:36:35] [main/INFO]: [CHAT] xadumTt entrou na partida
+[17:36:20] [Server thread/INFO]: lunamiibunny conquistou o progresso [Caçador de monstros]
+[17:36:22] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [Caçador de monstros]
+[17:37:70] [Server thread/INFO]: xadumTt conquistou o progresso [Caçador de monstros]
+[17:37:72] [main/INFO]: [CHAT] xadumTt conquistou o progresso [Caçador de monstros]
+[17:39:35] [main/INFO]: Loaded 124 advancements
+[17:40:74] [main/INFO]: Loaded 125 advancements
+[17:40:57] [Server thread/INFO]: felpspintudo conquistou o progresso [A Idade da Pedra]
+[17:40:60] [main/INFO]: [CHAT] felpspintudo conquistou o progresso [A Idade da Pedra]
+[17:40:05] [Server thread/INFO]: xadumTt conquistou o progresso [A Idade da Pedra]
+[17:40:05] [main/INFO]: [CHAT] xadumTt conquistou o progresso [A Idade da Pedra]
+[17:41:90] [main/INFO]: Loaded 127 advancements
+[17:41:99] [Server thread/INFO]: xadumTt conquistou o progresso [Salto de qualidade]
+[17:41:99] [main/INFO]: [CHAT] xadumTt conquistou o progresso [Salto de qualidade]
+[17:42:75] [Server thread/INFO]: WeirdCat conquistou o progresso [A Idade do Ferro]
+[17:42:77] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [A Idade do Ferro]
+[17:42:77] [main/INFO]: Loaded 153 advancements
+[17:42:64] [Server thread/INFO]: WeirdCat conquistou o progresso [Ferrou!]
+[17:42:66] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Ferrou!]
+[17:42:66] [main/INFO]: Loaded 157 advancements
+[17:43:59] [Server thread/INFO]: felpspintudo conquistou o progresso [Salto de qualidade]
+[17:43:62] [main/INFO]: [CHAT] felpspintudo conquistou o progresso [Salto de qualidade]
+[17:43:65] [Server thread/INFO]: lepskaleps conquistou o progresso [Caçador de monstros]
+[17:43:66] [main/INFO]: [CHAT] lepskaleps conquistou o progresso [Caçador de monstros]
+[17:43:70] [Server thread/INFO]: Esqueleto atingiu lunamiibunny
+[17:43:72] [main/INFO]: [CHAT] Esqueleto atingiu lunamiibunny
+[17:44:80] [Server thread/INFO]: WeirdCat conquistou o progresso [Hoje não, valeu]
+[17:44:83] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Hoje não, valeu]
+[17:44:85] [main/INFO]: Loaded 157 advancements
+[17:45:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-78, y=57, z=-186} fx{x=-78, y=56, z=-186}
+[17:45:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-78, y=60, z=-186} fx{x=-78, y=59, z=-186}
+[17:46:80] [main/INFO]: Loaded 167 advancements
+[17:47:15] [main/INFO]: Loaded 167 advancements
+[17:47:76] [main/INFO]: Loaded 184 advancements
+[17:47:15] [Server thread/INFO]: lunamiibunny conquistou o progresso [A Idade do Ferro]
+[17:47:17] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [A Idade do Ferro]
+[17:48:24] [Server thread/INFO]: lunamiibunny conquistou o progresso [Ferrou!]
+[17:48:27] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [Ferrou!]
+[17:48:92] [Server thread/INFO]: felpspintudo conquistou o progresso [Caçador de monstros]
+[17:48:94] [main/INFO]: [CHAT] felpspintudo conquistou o progresso [Caçador de monstros]
+[17:48:06] [main/INFO]: Loaded 185 advancements
+[17:48:60] [Server thread/INFO]: felpspintudo conquistou o progresso [A Idade do Ferro]
+[17:48:60] [main/INFO]: [CHAT] felpspintudo conquistou o progresso [A Idade do Ferro]
+[17:49:10] [Server thread/INFO]: lepskaleps conquistou o progresso [A Idade do Ferro]
+[17:49:12] [main/INFO]: [CHAT] lepskaleps conquistou o progresso [A Idade do Ferro]
+[17:50:04] [Server thread/INFO]: WeirdCat conquistou o progresso [Quem com ferro fere...]
+[17:50:05] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Quem com ferro fere...]
+[17:50:05] [main/INFO]: Loaded 185 advancements
+[17:52:54] [Server thread/INFO]: felpspintudo conquistou o progresso [Ferrou!]
+[17:52:55] [main/INFO]: [CHAT] felpspintudo conquistou o progresso [Ferrou!]
+[17:53:47] [main/INFO]: Loaded 186 advancements
+[17:54:99] [Server thread/INFO]: lunamiibunny conquistou o progresso [Diamantes!]
+[17:54:02] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [Diamantes!]
+[17:54:95] [Server thread/INFO]: xadumTt conquistou o progresso [A Idade do Ferro]
+[17:54:98] [main/INFO]: [CHAT] xadumTt conquistou o progresso [A Idade do Ferro]
+[17:54:98] [Server thread/INFO]: xadumTt conquistou o progresso [Ferrou!]
+[17:54:00] [main/INFO]: [CHAT] xadumTt conquistou o progresso [Ferrou!]
+[17:56:90] [main/INFO]: Loaded 196 advancements
+[17:56:19] [Server thread/INFO]: lepskaleps conquistou o progresso [Diamantes!]
+[17:56:20] [main/INFO]: [CHAT] lepskaleps conquistou o progresso [Diamantes!]
+[17:58:04] [Server thread/INFO]: lepskaleps conquistou o progresso [Ferrou!]
+[17:58:04] [main/INFO]: [CHAT] lepskaleps conquistou o progresso [Ferrou!]
+[18:00:75] [main/INFO]: Loaded 201 advancements
+[18:00:52] [Server thread/WARN]: Fetching packet for removed entity aqg['Esfera de experiência'/27223, l='ServerLevel[Só na brotheragem]', x=-155.65, y=12.65, z=-255.39]
+[18:00:73] [Server thread/WARN]: Fetching packet for removed entity bcv['Pó de redstone'/27417, l='ServerLevel[Só na brotheragem]', x=-186.13, y=13.07, z=-234.13]
+[18:00:75] [main/INFO]: Loaded 209 advancements
+[18:02:51] [Server thread/INFO]: <xadumTt> gostariammama
+[18:02:52] [main/INFO]: [CHAT] <xadumTt> gostariammama
+[18:02:50] [Server thread/INFO]: Esqueleto atingiu lunamiibunny
+[18:02:52] [main/INFO]: [CHAT] Esqueleto atingiu lunamiibunny
+[18:02:30] [main/INFO]: Loaded 211 advancements
+[18:03:30] [main/INFO]: Loaded 211 advancements
+[18:04:30] [main/INFO]: Loaded 211 advancements
+[18:04:35] [main/INFO]: Loaded 213 advancements
+[18:05:75] [Server thread/INFO]: Esqueleto atingiu felpspintudo
+[18:05:77] [main/INFO]: [CHAT] Esqueleto atingiu felpspintudo
+[18:05:00] [Server thread/INFO]: Esqueleto atingiu xadumTt
+[18:05:01] [main/INFO]: [CHAT] Esqueleto atingiu xadumTt
+[18:06:32] [User Authenticator #6/WARN]: Failed to verify username but will let them in anyway!
+[18:06:35] [Server thread/INFO]: Riskywinte[/26.126.204.53:49186] logged in with entity id 30751 at (-158.5, 66.0, -192.5)
+[18:06:36] [Server thread/INFO]: Riskywinte entrou na partida
+[18:06:37] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[18:07:76] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[18:07:76] [Server thread/INFO]: Riskywinte saiu da partida
+[18:07:77] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[18:07:84] [User Authenticator #7/WARN]: Failed to verify username but will let them in anyway!
+[18:07:90] [Server thread/INFO]: Riskywinte[/26.126.204.53:49200] logged in with entity id 30936 at (-158.5, 66.0, -192.5)
+[18:07:91] [Server thread/INFO]: Riskywinte entrou na partida
+[18:07:95] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[18:07:84] [Server thread/INFO]: felpspintudo conquistou o progresso [Quem com ferro fere...]
+[18:07:85] [main/INFO]: [CHAT] felpspintudo conquistou o progresso [Quem com ferro fere...]
+[18:07:14] [Server thread/INFO]: xadumTt conquistou o progresso [Quem com ferro fere...]
+[18:07:15] [main/INFO]: [CHAT] xadumTt conquistou o progresso [Quem com ferro fere...]
+[18:07:76] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[18:07:76] [Server thread/INFO]: Riskywinte saiu da partida
+[18:07:82] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[18:07:39] [User Authenticator #8/WARN]: Failed to verify username but will let them in anyway!
+[18:07:42] [Server thread/INFO]: Riskywinte[/26.126.204.53:49226] logged in with entity id 31124 at (-159.19964537099014, 67.0, -198.95859697166966)
+[18:07:43] [Server thread/INFO]: Riskywinte entrou na partida
+[18:07:48] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[18:08:59] [Server thread/INFO]: xadumTt lost connection: Desconectado
+[18:08:59] [Server thread/INFO]: xadumTt saiu da partida
+[18:08:60] [main/INFO]: [CHAT] xadumTt saiu da partida
+[18:08:38] [User Authenticator #9/WARN]: Failed to verify username but will let them in anyway!
+[18:08:89] [Server thread/INFO]: Riskywinte lost connection: Desconectado
+[18:08:89] [Server thread/INFO]: Riskywinte saiu da partida
+[18:08:91] [Server thread/INFO]: Riskywinte[/26.126.204.53:49229] logged in with entity id 31176 at (-159.19964537099014, 67.0, -198.95859697166966)
+[18:08:91] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[18:08:91] [Server thread/INFO]: Riskywinte entrou na partida
+[18:08:95] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[18:08:75] [Server thread/INFO]: Riskywinte lost connection: Desconectado
+[18:08:75] [Server thread/INFO]: Riskywinte saiu da partida
+[18:08:78] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[18:08:15] [main/INFO]: Loaded 214 advancements
+[18:09:21] [User Authenticator #10/WARN]: Failed to verify username but will let them in anyway!
+[18:09:27] [Server thread/INFO]: Riskywinte[/26.126.204.53:49540] logged in with entity id 32023 at (-159.19964537099014, 67.0, -198.95859697166966)
+[18:09:28] [Server thread/INFO]: Riskywinte entrou na partida
+[18:09:30] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[18:09:00] [Server thread/INFO]: Esqueleto atingiu felpspintudo
+[18:09:01] [main/INFO]: [CHAT] Esqueleto atingiu felpspintudo
+[18:10:58] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[18:10:58] [Server thread/INFO]: Riskywinte saiu da partida
+[18:10:61] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[18:10:11] [Server thread/WARN]: felpspintudo moved too quickly! 9.255226013040982,-0.3693736602695026,-4.058997146355864
+[18:10:35] [User Authenticator #11/WARN]: Failed to verify username but will let them in anyway!
+[18:10:42] [Server thread/INFO]: Riskywinte[/26.126.204.53:49555] logged in with entity id 32245 at (-159.19964537099014, 67.0, -198.95859697166966)
+[18:10:43] [Server thread/INFO]: Riskywinte entrou na partida
+[18:10:44] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[18:10:46] [Server thread/WARN]: Fetching packet for removed entity aqg['Esfera de experiência'/32222, l='ServerLevel[Só na brotheragem]', x=-149.19, y=14.07, z=-188.72]
+[18:10:30] [main/INFO]: Loaded 214 advancements
+[18:10:69] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[18:10:69] [Server thread/INFO]: Riskywinte saiu da partida
+[18:10:70] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[18:10:29] [Server thread/INFO]: Creeper explodiu felpspintudo
+[18:10:30] [main/INFO]: [CHAT] Creeper explodiu felpspintudo
+[18:10:42] [Server thread/WARN]: Fetching packet for removed entity bcv['Minério de ferro'/32540, l='ServerLevel[Só na brotheragem]', x=-154.58, y=12.04, z=-182.86]
+[18:11:76] [User Authenticator #12/WARN]: Failed to verify username but will let them in anyway!
+[18:11:83] [Server thread/INFO]: Riskywinte[/26.126.204.53:49659] logged in with entity id 32622 at (-158.30000001192093, 67.0, -199.9328508712199)
+[18:11:83] [Server thread/INFO]: Riskywinte entrou na partida
+[18:11:85] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[18:11:10] [Server thread/WARN]: felpspintudo moved too quickly! 8.958338346527881,1.0244240882136921,-4.734127667941948
+[18:13:85] [Server thread/INFO]: WeirdCat conquistou o progresso [Diamantes!]
+[18:13:87] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Diamantes!]
+[18:13:90] [main/INFO]: Loaded 225 advancements
+[18:14:86] [Server thread/INFO]: Riskywinte conquistou o progresso [A Idade da Pedra]
+[18:14:89] [main/INFO]: [CHAT] Riskywinte conquistou o progresso [A Idade da Pedra]
+[18:14:30] [main/WARN]: Received passengers for unknown entity
+[18:15:69] [Server thread/INFO]: Riskywinte conquistou o progresso [Salto de qualidade]
+[18:15:70] [main/INFO]: [CHAT] Riskywinte conquistou o progresso [Salto de qualidade]
+[18:18:89] [Server thread/INFO]: Riskywinte conquistou o progresso [Caçador de monstros]
+[18:18:90] [main/INFO]: [CHAT] Riskywinte conquistou o progresso [Caçador de monstros]
+[18:18:54] [Server thread/INFO]: felpspintudo conquistou o progresso [O mar está para peixe]
+[18:18:56] [main/INFO]: [CHAT] felpspintudo conquistou o progresso [O mar está para peixe]
+[18:18:18] [main/INFO]: Loaded 238 advancements
+[18:19:50] [Server thread/INFO]: Riskywinte conquistou o progresso [O mar está para peixe]
+[18:19:51] [main/INFO]: [CHAT] Riskywinte conquistou o progresso [O mar está para peixe]
+[18:21:00] [Server thread/INFO]: lunamiibunny conquistou o progresso [Quem com ferro fere...]
+[18:21:01] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [Quem com ferro fere...]
+[18:21:53] [Server thread/INFO]: lepskaleps conquistou o progresso [Quem com ferro fere...]
+[18:21:56] [main/INFO]: [CHAT] lepskaleps conquistou o progresso [Quem com ferro fere...]
+[18:22:22] [Server thread/INFO]: Riskywinte conquistou o progresso [A Idade do Ferro]
+[18:22:25] [main/INFO]: [CHAT] Riskywinte conquistou o progresso [A Idade do Ferro]
+[18:23:24] [Server thread/INFO]: Riskywinte conquistou o progresso [Quem com ferro fere...]
+[18:23:26] [main/INFO]: [CHAT] Riskywinte conquistou o progresso [Quem com ferro fere...]
+[18:23:26] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[18:24:70] [main/INFO]: Loaded 239 advancements
+[18:24:74] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-159, y=70, z=-238} fx{x=-161, y=70, z=-238}
+[18:24:86] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-159, y=70, z=-238} fx{x=-161, y=70, z=-238}
+[18:28:89] [main/INFO]: Loaded 240 advancements
+[18:30:15] [main/INFO]: Loaded 240 advancements
+[18:30:16] [main/INFO]: Loaded 240 advancements
+[18:31:74] [Server thread/INFO]: Creeper explodiu lunamiibunny
+[18:31:78] [main/INFO]: [CHAT] Creeper explodiu lunamiibunny
+[18:31:56] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[18:32:05] [Server thread/INFO]: [lunamiibunny: lunamiibunny foi teletransportado(a) para WeirdCat]
+[18:32:08] [main/INFO]: [CHAT] [lunamiibunny: lunamiibunny foi teletransportado(a) para WeirdCat]
+[18:32:45] [Server thread/INFO]: Creeper explodiu lunamiibunny
+[18:32:46] [main/INFO]: [CHAT] Creeper explodiu lunamiibunny
+[18:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[18:33:01] [Server thread/INFO]: [lunamiibunny: lunamiibunny foi teletransportado(a) para felpspintudo]
+[18:33:03] [main/INFO]: [CHAT] [lunamiibunny: lunamiibunny foi teletransportado(a) para felpspintudo]
+[18:33:02] [User Authenticator #13/WARN]: Failed to verify username but will let them in anyway!
+[18:33:16] [Server thread/INFO]: xadumTt[/26.168.74.204:57721] logged in with entity id 56054 at (-85.30000001192094, 40.0, -266.40953861546336)
+[18:33:16] [Server thread/INFO]: xadumTt entrou na partida
+[18:33:20] [main/INFO]: [CHAT] xadumTt entrou na partida
+[18:33:09] [Server thread/INFO]: [xadumTt: xadumTt foi teletransportado(a) para felpspintudo]
+[18:33:11] [main/INFO]: [CHAT] [xadumTt: xadumTt foi teletransportado(a) para felpspintudo]
+[18:34:14] [main/WARN]: Something's taking too long! 'root' took aprox 110.138 ms
+[18:35:96] [Server thread/INFO]: Zumbi matou WeirdCat
+[18:35:98] [main/INFO]: [CHAT] Zumbi matou WeirdCat
+[18:35:01] [main/INFO]: [CHAT] Você não tem cama ou âncora de renascimento carregada, ou estão obstruídas
+[18:35:59] [Server thread/INFO]: [WeirdCat: WeirdCat foi teletransportado(a) para Riskywinte]
+[18:35:60] [main/INFO]: [CHAT] WeirdCat foi teletransportado(a) para Riskywinte
+[18:35:43] [main/INFO]: Loaded 240 advancements
+[18:35:72] [Server thread/INFO]: [WeirdCat: WeirdCat foi teletransportado(a) para xadumTt]
+[18:35:75] [main/INFO]: [CHAT] WeirdCat foi teletransportado(a) para xadumTt
+[18:35:11] [main/INFO]: Loaded 240 advancements
+[18:36:86] [Server thread/INFO]: felpspintudo conquistou o progresso [Bons sonhos]
+[18:36:87] [main/INFO]: [CHAT] felpspintudo conquistou o progresso [Bons sonhos]
+[18:37:02] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:02] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:55] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:57] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:97] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:97] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:39] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:42] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:14] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:16] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:53] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:56] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:86] [Server thread/INFO]: <xadumTt> V
+[18:37:89] [main/INFO]: [CHAT] <xadumTt> V
+[18:37:15] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:16] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:49] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:50] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:77] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:80] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:09] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:13] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:37:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[18:38:92] [Server thread/INFO]: [WeirdCat: WeirdCat foi teletransportado(a) para lunamiibunny]
+[18:38:95] [main/INFO]: [CHAT] WeirdCat foi teletransportado(a) para lunamiibunny
+[18:38:56] [main/INFO]: Loaded 240 advancements
+[18:38:54] [Server thread/INFO]: <lepskaleps> da tp pls
+[18:38:56] [main/INFO]: [CHAT] <lepskaleps> da tp pls
+[18:38:72] [Server thread/INFO]: <xadumTt> onde
+[18:38:73] [main/INFO]: [CHAT] <xadumTt> onde
+[18:39:32] [Server thread/INFO]: [Riskywinte: lepskaleps foi teletransportado(a) para Riskywinte]
+[18:39:33] [main/INFO]: [CHAT] [Riskywinte: lepskaleps foi teletransportado(a) para Riskywinte]
+[18:39:32] [main/INFO]: Loaded 241 advancements
+[18:39:61] [Server thread/INFO]: <Riskywinte> ajudou?
+[18:39:62] [main/INFO]: [CHAT] <Riskywinte> ajudou?
+[18:39:07] [main/INFO]: Loaded 241 advancements
+[18:40:70] [Server thread/INFO]: [xadumTt: lunamiibunny foi teletransportado(a) para xadumTt]
+[18:40:71] [main/INFO]: [CHAT] [xadumTt: lunamiibunny foi teletransportado(a) para xadumTt]
+[18:40:72] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[18:40:18] [Server thread/INFO]: xadumTt caiu fora do mundo
+[18:40:19] [Server thread/INFO]: [xadumTt: xadumTt morreu]
+[18:40:22] [main/INFO]: [CHAT] xadumTt caiu fora do mundo
+[18:40:23] [main/INFO]: [CHAT] [xadumTt: xadumTt morreu]
+[18:41:82] [Server thread/INFO]: [xadumTt: xadumTt foi teletransportado(a) para Riskywinte]
+[18:41:83] [main/INFO]: [CHAT] [xadumTt: xadumTt foi teletransportado(a) para Riskywinte]
+[18:41:08] [main/INFO]: Loaded 250 advancements
+[18:42:37] [Server thread/INFO]: lepskaleps caiu de um lugar alto
+[18:42:39] [main/INFO]: [CHAT] lepskaleps caiu de um lugar alto
+[18:43:02] [Server thread/INFO]: Aranha matou xadumTt
+[18:43:03] [main/INFO]: [CHAT] Aranha matou xadumTt
+[18:43:76] [Server thread/INFO]: [xadumTt: xadumTt foi teletransportado(a) para lunamiibunny]
+[18:43:76] [main/INFO]: [CHAT] [xadumTt: xadumTt foi teletransportado(a) para lunamiibunny]
+[18:43:97] [main/INFO]: Loaded 259 advancements
+[18:44:91] [Server thread/INFO]: Esqueleto atingiu xadumTt
+[18:44:91] [main/INFO]: [CHAT] Esqueleto atingiu xadumTt
+[18:44:02] [main/INFO]: Loaded 262 advancements
+[18:45:32] [main/INFO]: Loaded 263 advancements
+[18:45:97] [Server thread/INFO]: [xadumTt: xadumTt foi teletransportado(a) para felpspintudo]
+[18:45:99] [main/INFO]: [CHAT] [xadumTt: xadumTt foi teletransportado(a) para felpspintudo]
+[18:45:22] [main/INFO]: Loaded 265 advancements
+[18:45:48] [Server thread/INFO]: xadumTt lost connection: Tempo esgotado
+[18:45:48] [Server thread/INFO]: xadumTt saiu da partida
+[18:45:51] [main/INFO]: [CHAT] xadumTt saiu da partida
+[18:45:50] [User Authenticator #14/WARN]: Failed to verify username but will let them in anyway!
+[18:45:60] [Server thread/INFO]: xadumTt[/26.168.74.204:50071] logged in with entity id 75187 at (-636.8146999619453, 78.0, 182.3495952801829)
+[18:45:61] [Server thread/INFO]: xadumTt entrou na partida
+[18:45:62] [main/INFO]: [CHAT] xadumTt entrou na partida
+[18:45:98] [main/INFO]: Loaded 267 advancements
+[18:46:92] [Server thread/WARN]: Fetching packet for removed entity aqg['Esfera de experiência'/75376, l='ServerLevel[Só na brotheragem]', x=-602.06, y=58.99, z=80.34]
+[18:47:81] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[18:47:90] [Server thread/WARN]: Fetching packet for removed entity bcv['Pedregulho'/76315, l='ServerLevel[Só na brotheragem]', x=-643.88, y=75.00, z=185.88]
+[18:48:30] [Server thread/INFO]: Zumbi matou lunamiibunny
+[18:48:30] [main/INFO]: [CHAT] Zumbi matou lunamiibunny
+[18:49:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-628, y=89, z=215} fx{x=-630, y=87, z=217}
+[18:50:20] [main/INFO]: Loaded 267 advancements
+[18:51:45] [main/INFO]: Loaded 268 advancements
+[18:52:93] [main/WARN]: Received passengers for unknown entity
+[18:52:74] [main/WARN]: Received passengers for unknown entity
+[18:52:57] [Server thread/INFO]: lepskaleps conquistou o progresso [Bons sonhos]
+[18:52:61] [main/INFO]: [CHAT] lepskaleps conquistou o progresso [Bons sonhos]
+[18:53:90] [Server thread/INFO]: <lepskaleps> zzz
+[18:53:93] [main/INFO]: [CHAT] <lepskaleps> zzz
+[18:53:72] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[18:53:75] [Server thread/INFO]: <lunamiibunny> zzZzZzZzZzZzZzZzZ
+[18:53:77] [main/INFO]: [CHAT] <lunamiibunny> zzZzZzZzZzZzZzZzZ
+[18:53:87] [Server thread/INFO]: <WeirdCat> zzzzzzzzzzz
+[18:53:90] [main/INFO]: [CHAT] <WeirdCat> zzzzzzzzzzz
+[18:53:61] [Server thread/INFO]: <felpspintudo> az
+[18:53:62] [main/INFO]: [CHAT] <felpspintudo> az
+[18:53:80] [Server thread/INFO]: <felpspintudo> z
+[18:53:82] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:90] [Server thread/INFO]: <felpspintudo> z
+[18:53:92] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:01] [Server thread/INFO]: <felpspintudo> z
+[18:53:02] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:11] [Server thread/INFO]: <felpspintudo> z
+[18:53:12] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:21] [Server thread/INFO]: <felpspintudo> z
+[18:53:23] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:30] [Server thread/INFO]: <felpspintudo> z
+[18:53:32] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:41] [Server thread/INFO]: <felpspintudo> z
+[18:53:42] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:55] [Server thread/INFO]: <felpspintudo> z
+[18:53:57] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:66] [Server thread/INFO]: <felpspintudo> z
+[18:53:67] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:77] [Server thread/INFO]: <felpspintudo> z
+[18:53:80] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:00] [Server thread/INFO]: <felpspintudo> z
+[18:53:00] [main/INFO]: [CHAT] <felpspintudo> z
+[18:53:21] [Server thread/INFO]: <felpspintudo> zz
+[18:53:22] [main/INFO]: [CHAT] <felpspintudo> zz
+[18:53:50] [Server thread/INFO]: <felpspintudo> z
+[18:53:52] [main/INFO]: [CHAT] <felpspintudo> z
+[18:54:40] [Server thread/INFO]: <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:54:42] [main/INFO]: [CHAT] <xadumTt> WILIAN LEMOS EU VOU TE ACHAR
+[18:54:77] [Server thread/INFO]: <felpspintudo> z
+[18:54:81] [main/INFO]: [CHAT] <felpspintudo> z
+[18:54:65] [Server thread/INFO]: Riskywinte conquistou o progresso [Bons sonhos]
+[18:54:67] [main/INFO]: [CHAT] Riskywinte conquistou o progresso [Bons sonhos]
+[18:54:01] [main/INFO]: Loaded 268 advancements
+[18:55:17] [main/INFO]: Loaded 270 advancements
+[18:57:52] [Server thread/WARN]: Fetching packet for removed entity bcv['Tronco de acácia'/82825, l='ServerLevel[Só na brotheragem]', x=-537.26, y=64.00, z=133.18]
+[18:58:99] [Server thread/INFO]: WeirdCat conquistou o progresso [Amigos para sempre]
+[18:58:01] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Amigos para sempre]
+[18:58:01] [main/INFO]: Loaded 270 advancements
+[18:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[18:59:27] [main/INFO]: Loaded 279 advancements
+[19:00:85] [main/INFO]: Loaded 280 advancements
+[19:00:25] [main/WARN]: Received passengers for unknown entity
+[19:02:75] [Server thread/INFO]: [xadumTt: xadumTt foi teletransportado(a) para Riskywinte]
+[19:02:76] [main/INFO]: [CHAT] [xadumTt: xadumTt foi teletransportado(a) para Riskywinte]
+[19:04:72] [Server thread/WARN]: Fetching packet for removed entity bcv['Pedregulho'/88720, l='ServerLevel[Só na brotheragem]', x=-583.86, y=41.00, z=193.13]
+[19:07:22] [Server thread/INFO]: <lepskaleps> z
+[19:07:23] [main/INFO]: [CHAT] <lepskaleps> z
+[19:07:26] [Server thread/INFO]: <lunamiibunny> zZzZzZzZzZzZ
+[19:07:27] [main/INFO]: [CHAT] <lunamiibunny> zZzZzZzZzZzZ
+[19:07:48] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[19:08:63] [Server thread/INFO]: <WeirdCat> zzzzzzzzzzzzz
+[19:08:66] [main/INFO]: [CHAT] <WeirdCat> zzzzzzzzzzzzz
+[19:09:95] [main/INFO]: Loaded 281 advancements
+[19:10:31] [Server thread/INFO]: <Riskywinte> z
+[19:10:34] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:46] [Server thread/INFO]: <Riskywinte> z
+[19:10:46] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:62] [Server thread/INFO]: <Riskywinte> z
+[19:10:62] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:76] [Server thread/INFO]: <Riskywinte> z
+[19:10:76] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:86] [Server thread/INFO]: <Riskywinte> z
+[19:10:87] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:00] [Server thread/INFO]: <Riskywinte> z
+[19:10:01] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:10] [Server thread/INFO]: <Riskywinte> z
+[19:10:10] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:21] [Server thread/INFO]: <Riskywinte> z
+[19:10:21] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:37] [Server thread/INFO]: <Riskywinte> z
+[19:10:40] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:51] [Server thread/INFO]: <Riskywinte> z
+[19:10:53] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:67] [Server thread/INFO]: <Riskywinte> z
+[19:10:68] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:01] [Server thread/INFO]: <Riskywinte> zz
+[19:10:02] [main/INFO]: [CHAT] <Riskywinte> zz
+[19:10:16] [Server thread/INFO]: <Riskywinte> z
+[19:10:17] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:27] [Server thread/INFO]: <Riskywinte> z
+[19:10:30] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:51] [Server thread/INFO]: <Riskywinte> z
+[19:10:53] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:65] [Server thread/INFO]: <Riskywinte> z
+[19:10:70] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:75] [Server thread/INFO]: <Riskywinte> z
+[19:10:77] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:90] [Server thread/INFO]: <Riskywinte> z
+[19:10:91] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:16] [Server thread/INFO]: <Riskywinte> z
+[19:10:16] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:26] [Server thread/INFO]: <Riskywinte> zz
+[19:10:28] [main/INFO]: [CHAT] <Riskywinte> zz
+[19:10:43] [Server thread/INFO]: <Riskywinte> z
+[19:10:51] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:51] [Server thread/INFO]: <xadumTt> z
+[19:10:51] [Server thread/INFO]: <Riskywinte> z
+[19:10:53] [main/INFO]: [CHAT] <xadumTt> z
+[19:10:54] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:61] [Server thread/INFO]: <lunamiibunny> >:(
+[19:10:61] [main/INFO]: [CHAT] <lunamiibunny> >:(
+[19:10:62] [Server thread/INFO]: <xadumTt> z
+[19:10:65] [main/INFO]: [CHAT] <xadumTt> z
+[19:10:67] [Server thread/INFO]: <Riskywinte> z
+[19:10:71] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:81] [Server thread/INFO]: <xadumTt> z
+[19:10:81] [Server thread/INFO]: <Riskywinte> z
+[19:10:84] [main/INFO]: [CHAT] <xadumTt> z
+[19:10:84] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:91] [Server thread/INFO]: <Riskywinte> z
+[19:10:93] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:96] [Server thread/INFO]: <xadumTt> z
+[19:10:00] [main/INFO]: [CHAT] <xadumTt> z
+[19:10:02] [Server thread/INFO]: <Riskywinte> z
+[19:10:06] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:13] [Server thread/INFO]: <xadumTt> z
+[19:10:16] [main/INFO]: [CHAT] <xadumTt> z
+[19:10:17] [Server thread/INFO]: <Riskywinte> z
+[19:10:20] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:31] [Server thread/INFO]: <Riskywinte> z
+[19:10:33] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:44] [Server thread/INFO]: <xadumTt> z
+[19:10:44] [Server thread/INFO]: <Riskywinte> z
+[19:10:45] [main/INFO]: [CHAT] <xadumTt> z
+[19:10:45] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:56] [Server thread/INFO]: <Riskywinte> z
+[19:10:56] [Server thread/INFO]: <xadumTt> z
+[19:10:58] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:58] [main/INFO]: [CHAT] <xadumTt> z
+[19:10:81] [Server thread/INFO]: <Riskywinte> z
+[19:10:81] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:96] [Server thread/INFO]: <Riskywinte> z
+[19:10:96] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:86] [Server thread/INFO]: <Riskywinte> z
+[19:10:87] [main/INFO]: [CHAT] <Riskywinte> z
+[19:10:47] [Server thread/INFO]: <lepskaleps> zê
+[19:10:47] [main/INFO]: [CHAT] <lepskaleps> zê
+[19:10:62] [Server thread/INFO]: <felpspintudo> zz
+[19:10:64] [main/INFO]: [CHAT] <felpspintudo> zz
+[19:10:97] [Server thread/INFO]: <felpspintudo> zz
+[19:10:99] [main/INFO]: [CHAT] <felpspintudo> zz
+[19:10:20] [Server thread/INFO]: <felpspintudo> z
+[19:10:22] [main/INFO]: [CHAT] <felpspintudo> z
+[19:10:37] [Server thread/INFO]: <felpspintudo> z
+[19:10:39] [main/INFO]: [CHAT] <felpspintudo> z
+[19:10:51] [Server thread/INFO]: <felpspintudo> zz
+[19:10:53] [main/INFO]: [CHAT] <felpspintudo> zz
+[19:10:66] [Server thread/INFO]: <felpspintudo> z
+[19:10:70] [main/INFO]: [CHAT] <felpspintudo> z
+[19:10:00] [Server thread/INFO]: <felpspintudo> zz
+[19:10:01] [main/INFO]: [CHAT] <felpspintudo> zz
+[19:10:21] [Server thread/INFO]: <felpspintudo> z
+[19:10:23] [main/INFO]: [CHAT] <felpspintudo> z
+[19:10:37] [Server thread/INFO]: <felpspintudo> z
+[19:10:46] [main/INFO]: [CHAT] <felpspintudo> z
+[19:10:51] [Server thread/INFO]: <felpspintudo> z
+[19:10:52] [main/INFO]: [CHAT] <felpspintudo> z
+[19:10:16] [Server thread/INFO]: <lepskaleps> uwu
+[19:10:18] [main/INFO]: [CHAT] <lepskaleps> uwu
+[19:10:92] [Server thread/INFO]: <xadumTt> @jean
+[19:10:93] [main/INFO]: [CHAT] <xadumTt> @jean
+[19:10:66] [Server thread/INFO]: <felpspintudo> @jeanmeuamor
+[19:10:67] [main/INFO]: [CHAT] <felpspintudo> @jeanmeuamor
+[19:10:11] [Server thread/INFO]: <lepskaleps> @serthlyre
+[19:10:13] [main/INFO]: [CHAT] <lepskaleps> @serthlyre
+[19:10:56] [Server thread/INFO]: <Riskywinte> @cabeçadelampada
+[19:10:59] [main/INFO]: [CHAT] <Riskywinte> @cabeçadelampada
+[19:10:07] [Server thread/INFO]: <lepskaleps> @PMM
+[19:10:10] [main/INFO]: [CHAT] <lepskaleps> @PMM
+[19:11:72] [Server thread/INFO]: <xadumTt> @jairmessiasbolsonaro
+[19:11:73] [main/INFO]: [CHAT] <xadumTt> @jairmessiasbolsonaro
+[19:11:11] [main/INFO]: Loaded 282 advancements
+[19:11:25] [Server thread/INFO]: <Riskywinte> @joirmessiasbonoro
+[19:11:27] [main/INFO]: [CHAT] <Riskywinte> @joirmessiasbonoro
+[19:12:05] [Server thread/INFO]: Aranha matou xadumTt
+[19:12:07] [main/INFO]: [CHAT] Aranha matou xadumTt
+[19:12:12] [Server thread/INFO]: <WeirdCat> meu microfone
+[19:12:14] [main/INFO]: [CHAT] <WeirdCat> meu microfone
+[19:12:67] [Server thread/INFO]: <WeirdCat> quebrou de vez
+[19:12:67] [main/INFO]: [CHAT] <WeirdCat> quebrou de vez
+[19:12:95] [Server thread/INFO]: Zumbi-múmia matou xadumTt
+[19:12:97] [main/INFO]: [CHAT] Zumbi-múmia matou xadumTt
+[19:12:75] [Server thread/WARN]: Fetching packet for removed entity bcv['Areia'/94957, l='ServerLevel[Só na brotheragem]', x=-679.80, y=70.18, z=162.13]
+[19:12:25] [main/INFO]: Loaded 283 advancements
+[19:12:13] [main/INFO]: Loaded 301 advancements
+[19:12:91] [main/INFO]: Loaded 305 advancements
+[19:12:01] [main/INFO]: Loaded 307 advancements
+[19:12:51] [main/INFO]: Loaded 309 advancements
+[19:13:47] [Server thread/INFO]: Aranha matou xadumTt
+[19:13:48] [main/INFO]: [CHAT] Aranha matou xadumTt
+[19:13:45] [Server thread/INFO]: Aranha matou xadumTt
+[19:13:46] [main/INFO]: [CHAT] Aranha matou xadumTt
+[19:16:22] [main/INFO]: Loaded 311 advancements
+[19:17:56] [main/INFO]: Loaded 313 advancements
+[19:18:15] [main/INFO]: Loaded 314 advancements
+[19:18:52] [main/INFO]: Loaded 315 advancements
+[19:18:57] [main/INFO]: Loaded 316 advancements
+[19:19:15] [Server thread/INFO]: WeirdCat conquistou o progresso [Entrando numa fria]
+[19:19:16] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Entrando numa fria]
+[19:19:22] [main/INFO]: Loaded 321 advancements
+[19:23:58] [main/INFO]: Loaded 322 advancements
+[19:24:89] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19:24:05] [Server thread/WARN]: Fetching packet for removed entity bcv['Terra'/105253, l='ServerLevel[Só na brotheragem]', x=-641.36, y=75.16, z=180.64]
+[19:24:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[19:25:20] [Server thread/INFO]: <xadumTt> meuiten
+[19:25:20] [main/INFO]: [CHAT] <xadumTt> meuiten
+[19:25:26] [Server thread/INFO]: <xadumTt> :c
+[19:25:27] [main/INFO]: [CHAT] <xadumTt> :c
+[19:25:87] [main/INFO]: Loaded 323 advancements
+[19:27:45] [Server thread/INFO]: <lepskaleps> \
+[19:27:48] [main/INFO]: [CHAT] <lepskaleps> \
+[19:27:47] [Server thread/INFO]: <lepskaleps> z
+[19:27:48] [main/INFO]: [CHAT] <lepskaleps> z
+[19:28:25] [Server thread/INFO]: Esqueleto atingiu lunamiibunny
+[19:28:28] [main/INFO]: [CHAT] Esqueleto atingiu lunamiibunny
+[19:28:35] [main/INFO]: Loaded 326 advancements
+[19:29:86] [Server thread/INFO]: <xadumTt> kauan
+[19:29:88] [main/INFO]: [CHAT] <xadumTt> kauan
+[19:29:76] [Server thread/INFO]: <WeirdCat> vem dormir comigo
+[19:29:78] [main/INFO]: [CHAT] <WeirdCat> vem dormir comigo
+[19:30:75] [Server thread/INFO]: <WeirdCat> zzzzzzz
+[19:30:76] [main/INFO]: [CHAT] <WeirdCat> zzzzzzz
+[19:30:82] [Server thread/INFO]: <Riskywinte> VAi DERRUBAR A PORRA DO SUCO PO
+[19:30:83] [main/INFO]: [CHAT] <Riskywinte> VAi DERRUBAR A PORRA DO SUCO PO
+[19:30:76] [Server thread/INFO]: <Riskywinte> PORRA DO SUCO
+[19:30:79] [main/INFO]: [CHAT] <Riskywinte> PORRA DO SUCO
+[19:30:51] [Server thread/INFO]: <Riskywinte> PORRA DO SUCO
+[19:30:53] [main/INFO]: [CHAT] <Riskywinte> PORRA DO SUCO
+[19:30:32] [Server thread/INFO]: <felpspintudo> DORME DORME
+[19:30:34] [main/INFO]: [CHAT] <felpspintudo> DORME DORME
+[19:30:76] [Server thread/INFO]: <Riskywinte> PORRA DO SUCO
+[19:30:77] [main/INFO]: [CHAT] <Riskywinte> PORRA DO SUCO
+[19:30:22] [Server thread/INFO]: <Riskywinte> PORRA DO SUCO
+[19:30:24] [main/INFO]: [CHAT] <Riskywinte> PORRA DO SUCO
+[19:30:62] [Server thread/INFO]: <Riskywinte> PORRA DO SUCO
+[19:30:63] [main/INFO]: [CHAT] <Riskywinte> PORRA DO SUCO
+[19:30:01] [Server thread/INFO]: <Riskywinte> PORRA DO SUCO
+[19:30:03] [main/INFO]: [CHAT] <Riskywinte> PORRA DO SUCO
+[19:30:31] [Server thread/INFO]: <felpspintudo> DORME DORME
+[19:30:33] [main/INFO]: [CHAT] <felpspintudo> DORME DORME
+[19:30:37] [Server thread/INFO]: <Riskywinte> PORRA DO SUCO
+[19:30:39] [main/INFO]: [CHAT] <Riskywinte> PORRA DO SUCO
+[19:30:80] [Server thread/INFO]: <Riskywinte> PORRA DO SUCO
+[19:30:81] [main/INFO]: [CHAT] <Riskywinte> PORRA DO SUCO
+[19:30:76] [Server thread/INFO]: <felpspintudo> DORME DORME
+[19:30:77] [main/INFO]: [CHAT] <felpspintudo> DORME DORME
+[19:30:65] [Server thread/INFO]: <WeirdCat> quem que não ta dormindo
+[19:30:67] [main/INFO]: [CHAT] <WeirdCat> quem que não ta dormindo
+[19:30:96] [Server thread/INFO]: <xadumTt> xadumTt
+[19:30:96] [main/INFO]: [CHAT] <xadumTt> xadumTt
+[19:30:65] [Server thread/INFO]: <felpspintudo> PICA DE ESPONJA
+[19:30:68] [main/INFO]: [CHAT] <felpspintudo> PICA DE ESPONJA
+[19:31:11] [Server thread/INFO]: <WeirdCat> kaleps tá online?
+[19:31:14] [main/INFO]: [CHAT] <WeirdCat> kaleps tá online?
+[19:31:91] [Server thread/INFO]: Villager bfj['Agricultor'/49693, l='ServerLevel[Só na brotheragem]', x=-687.49, y=70.00, z=154.70] died, message: 'lepskaleps matou Agricultor'
+[19:31:92] [main/INFO]: Villager bfj['Agricultor'/49693, l='ClientLevel', x=-687.49, y=70.00, z=155.24] died, message: 'Agricultor morreu'
+[19:31:73] [Server thread/INFO]: <xadumTt> PAU DE TIRANOSSAURO DA DENGUE
+[19:31:76] [main/INFO]: [CHAT] <xadumTt> PAU DE TIRANOSSAURO DA DENGUE
+[19:31:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-647, y=70, z=57} fx{x=-645, y=70, z=56}
+[19:31:40] [Server thread/INFO]: Villager bfj['Palerma'/52323, l='ServerLevel[Só na brotheragem]', x=-640.87, y=68.00, z=136.70] died, message: 'Zumbi-múmia matou Palerma'
+[19:31:42] [main/INFO]: Villager bfj['Palerma'/52323, l='ClientLevel', x=-640.93, y=68.01, z=136.59] died, message: 'Palerma morreu'
+[19:32:71] [Server thread/INFO]: xadumTt conquistou o progresso [Elas crescem tão rápido...]
+[19:32:73] [main/INFO]: [CHAT] xadumTt conquistou o progresso [Elas crescem tão rápido...]
+[19:32:76] [Server thread/INFO]: lepskaleps caiu de um lugar alto
+[19:32:77] [main/INFO]: [CHAT] lepskaleps caiu de um lugar alto
+[19:35:35] [main/INFO]: Loaded 328 advancements
+[19:35:78] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[19:35:22] [main/INFO]: Loaded 329 advancements
+[19:35:88] [main/INFO]: Loaded 332 advancements
+[19:36:89] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-619, y=70, z=49} fx{x=-618, y=68, z=49}
+[19:37:56] [Server thread/INFO]: WeirdCat conquistou o progresso [Aprendiz de feiticeiro]
+[19:37:58] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Aprendiz de feiticeiro]
+[19:37:61] [main/INFO]: Loaded 332 advancements
+[19:37:78] [Server thread/INFO]: lunamiibunny conquistou o progresso [O buraco é mais embaixo]
+[19:37:80] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [O buraco é mais embaixo]
+[19:37:83] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3559ms or 71 ticks behind
+[19:37:96] [Server thread/WARN]: Riskywinte moved too quickly! 7.026633438355475,-0.2046003784434305,7.253376169162237
+[19:37:96] [Server thread/WARN]: lepskaleps moved too quickly! 4.812151319169516,-0.7531999805212024,8.95315491018234
+[19:38:74] [Server thread/WARN]: lepskaleps moved too quickly! -5.285289305103333,0.2712241076924897,8.794552146444786
+[19:38:75] [Server thread/WARN]: Riskywinte moved too quickly! 7.452417499161697,1.003967839911212,7.1240795429981745
+[19:38:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
+[19:38:04] [Server thread/INFO]: WeirdCat conquistou o progresso [O buraco é mais embaixo]
+[19:38:29] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [O buraco é mais embaixo]
+[19:38:31] [main/INFO]: Loaded 350 advancements
+[19:38:44] [main/INFO]: Loaded 350 advancements
+[19:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4283ms or 85 ticks behind
+[19:38:02] [main/INFO]: Loaded 350 advancements
+[19:38:46] [main/WARN]: Received passengers for unknown entity
+[19:39:98] [main/WARN]: Received passengers for unknown entity
+[19:39:72] [main/WARN]: Received passengers for unknown entity
+[19:39:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:39:48] [main/WARN]: Received passengers for unknown entity
+[19:39:08] [main/INFO]: Loaded 351 advancements
+[19:39:63] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[19:40:03] [Server thread/INFO]: WeirdCat conquistou o progresso [Anos dourados]
+[19:40:05] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Anos dourados]
+[19:40:09] [main/INFO]: Loaded 351 advancements
+[19:40:86] [main/WARN]: Received passengers for unknown entity
+[19:40:31] [main/WARN]: Received passengers for unknown entity
+[19:40:78] [main/WARN]: Received passengers for unknown entity
+[19:40:60] [main/WARN]: Received passengers for unknown entity
+[19:41:16] [Server thread/INFO]: lunamiibunny conquistou o progresso [Anos dourados]
+[19:41:17] [main/INFO]: [CHAT] lunamiibunny conquistou o progresso [Anos dourados]
+[19:41:26] [main/INFO]: Loaded 353 advancements
+[19:41:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[19:41:03] [main/INFO]: Loaded 360 advancements
+[19:41:76] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[19:41:74] [main/INFO]: Loaded 376 advancements
+[19:42:73] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:42:83] [main/WARN]: Received passengers for unknown entity
+[19:42:92] [main/WARN]: Received passengers for unknown entity
+[19:42:40] [main/WARN]: Received passengers for unknown entity
+[19:42:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19:42:56] [Server thread/INFO]: Piglin bárbaro matou WeirdCat
+[19:42:57] [main/INFO]: [CHAT] Piglin bárbaro matou WeirdCat
+[19:43:60] [main/WARN]: Received passengers for unknown entity
+[19:43:75] [main/WARN]: Received passengers for unknown entity
+[19:43:81] [main/WARN]: Received passengers for unknown entity
+[19:43:17] [main/WARN]: Received passengers for unknown entity
+[19:43:63] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
+[19:43:40] [main/WARN]: Received passengers for unknown entity
+[19:43:67] [main/WARN]: Received passengers for unknown entity
+[19:43:86] [main/WARN]: Received passengers for unknown entity
+[19:44:99] [Server thread/INFO]: Piglin bárbaro matou WeirdCat
+[19:44:01] [main/INFO]: [CHAT] Piglin bárbaro matou WeirdCat
+[19:44:21] [main/INFO]: Loaded 377 advancements
+[19:44:98] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:44:11] [main/WARN]: Received passengers for unknown entity
+[19:44:14] [main/WARN]: Received passengers for unknown entity
+[19:44:41] [main/WARN]: Received passengers for unknown entity
+[19:44:98] [main/WARN]: Received passengers for unknown entity
+[19:45:33] [main/WARN]: Received passengers for unknown entity
+[19:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6522ms or 130 ticks behind
+[19:45:85] [main/WARN]: Received passengers for unknown entity
+[19:46:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:46:05] [main/WARN]: Received passengers for unknown entity
+[19:46:83] [main/WARN]: Received passengers for unknown entity
+[19:46:73] [Server thread/INFO]: <xadumTt> dropa areia kauan
+[19:46:73] [main/INFO]: [CHAT] <xadumTt> dropa areia kauan
+[19:46:98] [Server thread/INFO]: <xadumTt> pfv
+[19:46:01] [main/INFO]: [CHAT] <xadumTt> pfv
+[19:46:48] [main/INFO]: Loaded 378 advancements
+[19:46:55] [Server thread/INFO]: lunamiibunny lost connection: Desconectado
+[19:46:55] [Server thread/INFO]: lunamiibunny saiu da partida
+[19:46:58] [main/INFO]: [CHAT] lunamiibunny saiu da partida
+[19:46:81] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[19:47:31] [Server thread/INFO]: Aranha matou WeirdCat
+[19:47:34] [main/INFO]: [CHAT] Aranha matou WeirdCat
+[19:48:17] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[19:48:90] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[19:49:90] [Server thread/INFO]: <felpspintudo> CAPADO PELA ARACNOIDE
+[19:49:93] [main/INFO]: [CHAT] <felpspintudo> CAPADO PELA ARACNOIDE
+[19:49:70] [Server thread/INFO]: <WeirdCat> zzzzzzzzzzzzzz
+[19:49:73] [main/INFO]: [CHAT] <WeirdCat> zzzzzzzzzzzzzz
+[19:49:32] [Server thread/INFO]: <xadumTt> zzzzzzzzzZZZz
+[19:49:33] [main/INFO]: [CHAT] <xadumTt> zzzzzzzzzZZZz
+[19:50:23] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[19:52:19] [main/WARN]: Received passengers for unknown entity
+[19:53:13] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[19:53:76] [main/INFO]: Loaded 378 advancements
+[19:53:31] [Server thread/INFO]: WeirdCat lost connection: Desconectado
+[19:53:31] [Server thread/INFO]: WeirdCat saiu da partida
+[19:53:32] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[19:53:48] [Server thread/INFO]: Stopping server
+[19:53:48] [Server thread/INFO]: Saving players
+[19:53:48] [Server thread/INFO]: Saving worlds
+[19:53:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:overworld
+[19:53:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (Só na brotheragem): All chunks are saved
+[19:53:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_nether
+[19:53:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:53:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_end
+[19:53:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:53:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (Só na brotheragem): All chunks are saved
+[19:53:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:53:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:53:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:53:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:53:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:53:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:53:18] [main/INFO]: Reloading ResourceManager: Default
+[19:53:62] [main/INFO]: Loaded 7 recipes
+[19:53:69] [main/INFO]: Loaded 927 advancements
+[19:53:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:53:14] [Server thread/INFO]: Starting integrated minecraft server version 1.16.5
+[19:53:14] [Server thread/INFO]: Generating keypair
+[19:53:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:53:46] [main/INFO]: Preparando área de nascimento: 0%
+[19:53:48] [main/INFO]: Preparando área de nascimento: 0%
+[19:53:48] [main/INFO]: Preparando área de nascimento: 0%
+[19:53:69] [main/INFO]: Time elapsed: 1508 ms
+[19:53:76] [Server thread/INFO]: Changing view distance to 11, from 10
+[19:53:06] [Server thread/INFO]: WeirdCat[local:E:cfdba87d] logged in with entity id 136040 at (-637.0522802130728, 71.0, 72.42239433028028)
+[19:53:06] [Server thread/INFO]: WeirdCat entrou na partida
+[19:53:17] [Server thread/INFO]: Saving and pausing game...
+[19:53:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:overworld
+[19:53:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_nether
+[19:53:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_end
+[19:53:50] [main/INFO]: Loaded 378 advancements
+[19:53:03] [Server thread/INFO]: Saving and pausing game...
+[19:53:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:overworld
+[19:53:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_nether
+[19:53:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_end
+[19:54:07] [main/INFO]: Using default channel type
+[19:54:07] [main/INFO]: Started serving on 59113
+[19:54:08] [main/INFO]: [CHAT] A partida local foi hospedada na porta 59113
+[19:54:16] [User Authenticator #15/WARN]: Failed to verify username but will let them in anyway!
+[19:54:40] [Server thread/INFO]: lepskaleps[/26.105.170.195:57783] logged in with entity id 136569 at (-685.8055960897689, 70.0, 153.51836047584152)
+[19:54:41] [Server thread/INFO]: lepskaleps entrou na partida
+[19:54:42] [main/INFO]: [CHAT] lepskaleps entrou na partida
+[19:54:15] [User Authenticator #16/WARN]: Failed to verify username but will let them in anyway!
+[19:54:35] [Server thread/INFO]: xadumTt[/26.168.74.204:64864] logged in with entity id 136665 at (-676.0610207830942, 70.0, 152.94538445574847)
+[19:54:35] [Server thread/INFO]: xadumTt entrou na partida
+[19:54:36] [main/INFO]: [CHAT] xadumTt entrou na partida
+[19:54:86] [User Authenticator #17/WARN]: Failed to verify username but will let them in anyway!
+[19:54:02] [Server thread/INFO]: Riskywinte[/26.126.204.53:50171] logged in with entity id 136866 at (-629.5, 88.0, 218.5)
+[19:54:03] [Server thread/INFO]: Riskywinte entrou na partida
+[19:54:05] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[19:55:24] [User Authenticator #18/WARN]: Failed to verify username but will let them in anyway!
+[19:55:37] [Server thread/INFO]: felpspintudo[/26.130.119.113:57912] logged in with entity id 137161 at (-640.0386711293944, 78.0, 184.87660039655057)
+[19:55:39] [Server thread/INFO]: felpspintudo entrou na partida
+[19:55:42] [main/INFO]: [CHAT] felpspintudo entrou na partida
+[19:58:99] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:10:78] [Server thread/INFO]: Creeper explodiu Riskywinte
+[20:10:80] [main/INFO]: [CHAT] Creeper explodiu Riskywinte
+[20:11:51] [Server thread/WARN]: Riskywinte moved too quickly! 10.47582612426686,0.41999998688697815,-1.5744321203138156
+[20:11:78] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[20:11:78] [Server thread/INFO]: Riskywinte saiu da partida
+[20:11:79] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[20:11:42] [User Authenticator #19/WARN]: Failed to verify username but will let them in anyway!
+[20:11:59] [Server thread/INFO]: Riskywinte[/26.126.204.53:50262] logged in with entity id 160370 at (-614.4278297059334, 88.0, 206.99852040230283)
+[20:11:60] [Server thread/INFO]: Riskywinte entrou na partida
+[20:11:61] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[20:11:02] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[20:11:02] [Server thread/INFO]: Riskywinte saiu da partida
+[20:11:03] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[20:12:11] [Server thread/WARN]: Fetching packet for removed entity bcv['Graveto'/159885, l='ServerLevel[Só na brotheragem]', x=-672.99, y=72.30, z=129.87]
+[20:12:70] [User Authenticator #20/WARN]: Failed to verify username but will let them in anyway!
+[20:12:82] [Server thread/INFO]: Riskywinte[/26.126.204.53:50272] logged in with entity id 160550 at (-614.4278297059334, 88.0, 206.99852040230283)
+[20:12:83] [Server thread/INFO]: Riskywinte entrou na partida
+[20:12:85] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[20:13:17] [Server thread/INFO]: Um cacto espetou lepskaleps até a morte
+[20:13:17] [main/INFO]: [CHAT] Um cacto espetou lepskaleps até a morte
+[20:14:62] [Server thread/WARN]: Cavalo (vehicle of WeirdCat) moved wrongly! 0.2573737737256323
+[20:17:22] [Server thread/INFO]: xadumTt lost connection: Desconectado
+[20:17:22] [Server thread/INFO]: xadumTt saiu da partida
+[20:17:24] [main/INFO]: [CHAT] xadumTt saiu da partida
+[20:17:64] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[20:19:99] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[20:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[20:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4946ms or 98 ticks behind
+[20:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:26:54] [Server thread/INFO]: [Riskywinte: O tempo foi definido para 1000 ciclos]
+[20:26:56] [main/INFO]: [CHAT] [Riskywinte: O tempo foi definido para 1000 ciclos]
+[20:26:02] [Server thread/INFO]: Creeper explodiu Riskywinte
+[20:26:04] [main/INFO]: [CHAT] Creeper explodiu Riskywinte
+[20:27:80] [Server thread/WARN]: Riskywinte moved too quickly! 10.182829869590591,0.41999998688697815,-1.6131802837137172
+[20:27:56] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[20:27:56] [Server thread/INFO]: Riskywinte saiu da partida
+[20:27:56] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[20:27:77] [User Authenticator #21/WARN]: Failed to verify username but will let them in anyway!
+[20:27:86] [Server thread/INFO]: Riskywinte[/26.126.204.53:50358] logged in with entity id 181178 at (-614.7197771299765, 88.0, 206.83594770475375)
+[20:27:86] [Server thread/INFO]: Riskywinte entrou na partida
+[20:27:87] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[20:28:77] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[20:28:77] [Server thread/INFO]: Riskywinte saiu da partida
+[20:28:79] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[20:28:84] [User Authenticator #22/WARN]: Failed to verify username but will let them in anyway!
+[20:28:93] [Server thread/INFO]: Riskywinte[/26.126.204.53:50370] logged in with entity id 181459 at (-614.7197771299765, 88.0, 206.83594770475375)
+[20:28:93] [Server thread/INFO]: Riskywinte entrou na partida
+[20:28:94] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[20:28:32] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[20:28:32] [Server thread/INFO]: Riskywinte saiu da partida
+[20:28:34] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[20:28:43] [Server thread/INFO]: WeirdCat esbarrou violentamente no chão
+[20:28:45] [main/INFO]: [CHAT] WeirdCat esbarrou violentamente no chão
+[20:28:26] [User Authenticator #23/WARN]: Failed to verify username but will let them in anyway!
+[20:28:32] [Server thread/INFO]: Riskywinte[/26.126.204.53:50380] logged in with entity id 181961 at (-614.7197771299765, 88.0, 206.83594770475375)
+[20:28:33] [Server thread/INFO]: Riskywinte entrou na partida
+[20:28:34] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[20:29:86] [Server thread/INFO]: Riskywinte lost connection: Tempo esgotado
+[20:29:86] [Server thread/INFO]: Riskywinte saiu da partida
+[20:29:89] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[20:29:05] [User Authenticator #24/WARN]: Failed to verify username but will let them in anyway!
+[20:29:17] [Server thread/INFO]: Riskywinte[/26.126.204.53:50390] logged in with entity id 182219 at (-614.7197771299765, 88.0, 206.83594770475375)
+[20:29:17] [Server thread/INFO]: Riskywinte entrou na partida
+[20:29:20] [main/INFO]: [CHAT] Riskywinte entrou na partida
+[20:29:08] [Server thread/INFO]: WeirdCat esbarrou violentamente no chão
+[20:29:09] [main/INFO]: [CHAT] WeirdCat esbarrou violentamente no chão
+[20:30:75] [Server thread/INFO]: Golem de ferro matou WeirdCat
+[20:30:76] [main/INFO]: [CHAT] Golem de ferro matou WeirdCat
+[20:31:39] [Server thread/INFO]: Golem de ferro matou WeirdCat
+[20:31:41] [main/INFO]: [CHAT] Golem de ferro matou WeirdCat
+[20:32:84] [Server thread/INFO]: Golem de ferro matou WeirdCat
+[20:32:86] [main/INFO]: [CHAT] Golem de ferro matou WeirdCat
+[20:32:18] [Server thread/INFO]: Um cacto espetou lepskaleps até a morte
+[20:32:20] [main/INFO]: [CHAT] Um cacto espetou lepskaleps até a morte
+[20:32:34] [Server thread/INFO]: Golem de ferro matou WeirdCat
+[20:32:36] [main/INFO]: [CHAT] Golem de ferro matou WeirdCat
+[20:33:20] [Server thread/INFO]: Golem de ferro matou WeirdCat
+[20:33:23] [main/INFO]: [CHAT] Golem de ferro matou WeirdCat
+[20:33:35] [Server thread/INFO]: Golem de ferro matou WeirdCat
+[20:33:36] [main/INFO]: [CHAT] Golem de ferro matou WeirdCat
+[20:34:25] [Server thread/INFO]: Golem de ferro matou WeirdCat
+[20:34:28] [main/INFO]: [CHAT] Golem de ferro matou WeirdCat
+[20:34:25] [Server thread/INFO]: Golem de ferro matou WeirdCat
+[20:34:26] [main/INFO]: [CHAT] Golem de ferro matou WeirdCat
+[20:35:21] [main/INFO]: Loaded 379 advancements
+[20:36:06] [Server thread/INFO]: [WeirdCat: WeirdCat foi teletransportado(a) para lepskaleps]
+[20:36:09] [main/INFO]: [CHAT] WeirdCat foi teletransportado(a) para lepskaleps
+[20:37:81] [Server thread/INFO]: WeirdCat sufocou-se numa parede
+[20:37:81] [main/INFO]: [CHAT] WeirdCat sufocou-se numa parede
+[20:37:15] [Server thread/INFO]: felpspintudo lost connection: Desconectado
+[20:37:15] [Server thread/INFO]: felpspintudo saiu da partida
+[20:37:19] [main/INFO]: [CHAT] felpspintudo saiu da partida
+[20:39:56] [Server thread/INFO]: Villager bfj['Cartógrafo'/136292, l='ServerLevel[Só na brotheragem]', x=-688.70, y=71.00, z=125.47] died, message: 'Zumbi-múmia matou Cartógrafo'
+[20:39:59] [main/INFO]: Villager bfj['Cartógrafo'/136292, l='ClientLevel', x=-688.70, y=71.00, z=125.39] died, message: 'Cartógrafo morreu'
+[20:39:26] [Server thread/INFO]: Aldeão zumbi matou lepskaleps
+[20:39:26] [main/INFO]: [CHAT] Aldeão zumbi matou lepskaleps
+[20:40:21] [Server thread/INFO]: [Riskywinte: O tempo foi definido para 1000 ciclos]
+[20:40:21] [main/INFO]: [CHAT] [Riskywinte: O tempo foi definido para 1000 ciclos]
+[20:43:81] [User Authenticator #25/WARN]: Failed to verify username but will let them in anyway!
+[20:43:94] [Server thread/INFO]: xadumTt[/26.168.74.204:62542] logged in with entity id 191285 at (-684.2151938250022, 71.0, 127.17780719109255)
+[20:43:94] [Server thread/INFO]: xadumTt entrou na partida
+[20:43:96] [main/INFO]: [CHAT] xadumTt entrou na partida
+[20:44:18] [Server thread/INFO]: <Riskywinte> jean
+[20:44:18] [main/INFO]: [CHAT] <Riskywinte> jean
+[20:44:27] [Server thread/INFO]: <WeirdCat> oi
+[20:44:28] [main/INFO]: [CHAT] <WeirdCat> oi
+[20:44:11] [Server thread/INFO]: <Riskywinte> desmuta
+[20:44:12] [main/INFO]: [CHAT] <Riskywinte> desmuta
+[20:44:13] [Server thread/INFO]: <xadumTt> fala conosco :c
+[20:44:13] [main/INFO]: [CHAT] <xadumTt> fala conosco :c
+[20:44:26] [Server thread/INFO]: <WeirdCat> nn
+[20:44:26] [main/INFO]: [CHAT] <WeirdCat> nn
+[20:46:70] [Server thread/INFO]: lepskaleps caiu de um lugar alto
+[20:46:72] [main/INFO]: [CHAT] lepskaleps caiu de um lugar alto
+[20:47:56] [Server thread/INFO]: WeirdCat conquistou o progresso [Negócio fechado!]
+[20:47:58] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Negócio fechado!]
+[20:47:62] [main/INFO]: Loaded 379 advancements
+[20:51:73] [Server thread/INFO]: Riskywinte conquistou o progresso [Amigos para sempre]
+[20:51:74] [main/INFO]: [CHAT] Riskywinte conquistou o progresso [Amigos para sempre]
+[20:53:81] [Server thread/INFO]: xadumTt conquistou o progresso [Hoje não, valeu]
+[20:53:82] [main/INFO]: [CHAT] xadumTt conquistou o progresso [Hoje não, valeu]
+[20:53:55] [Server thread/INFO]: Zumbi matou xadumTt
+[20:53:56] [main/INFO]: [CHAT] Zumbi matou xadumTt
+[20:56:46] [Server thread/INFO]: lepskaleps esbarrou violentamente no chão
+[20:56:48] [main/INFO]: [CHAT] lepskaleps esbarrou violentamente no chão
+[20:59:71] [Server thread/INFO]: Riskywinte lost connection: Desconectado
+[20:59:71] [Server thread/INFO]: Riskywinte saiu da partida
+[20:59:72] [main/INFO]: [CHAT] Riskywinte saiu da partida
+[20:59:25] [Server thread/INFO]: Esqueleto atingiu xadumTt
+[20:59:26] [main/INFO]: [CHAT] Esqueleto atingiu xadumTt
+[20:59:95] [Server thread/INFO]: Creeper explodiu xadumTt
+[20:59:95] [main/INFO]: [CHAT] Creeper explodiu xadumTt
+[21:00:27] [Server thread/INFO]: xadumTt lost connection: Desconectado
+[21:00:27] [Server thread/INFO]: xadumTt saiu da partida
+[21:00:30] [main/INFO]: [CHAT] xadumTt saiu da partida
+[21:01:16] [Server thread/INFO]: lepskaleps lost connection: Desconectado
+[21:01:16] [Server thread/INFO]: lepskaleps saiu da partida
+[21:01:17] [main/INFO]: [CHAT] lepskaleps saiu da partida
+[21:02:75] [main/INFO]: [CHAT] O ponto de renascimento foi definido
+[21:02:45] [Server thread/INFO]: WeirdCat lost connection: Desconectado
+[21:02:45] [Server thread/INFO]: WeirdCat saiu da partida
+[21:02:48] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:02:53] [Server thread/INFO]: Stopping server
+[21:02:53] [Server thread/INFO]: Saving players
+[21:02:53] [Server thread/INFO]: Saving worlds
+[21:02:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:overworld
+[21:03:63] [Server thread/INFO]: ThreadedAnvilChunkStorage (Só na brotheragem): All chunks are saved
+[21:03:63] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_nether
+[21:03:63] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:03:63] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Só na brotheragem]'/minecraft:the_end
+[21:03:63] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:03:84] [Server thread/INFO]: ThreadedAnvilChunkStorage (Só na brotheragem): All chunks are saved
+[21:03:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:03:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:03:24] [main/INFO]: Stopping!
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (1825 ms)
+[Launcher] Minecraft closed with exit code: 0
+[Launcher] Launcher exited.
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now

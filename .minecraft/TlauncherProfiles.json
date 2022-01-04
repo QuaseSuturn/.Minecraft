@@ -1,0 +1,15 @@
+{
+  "clientToken": "9a02568d-f380-4e1a-ac11-a24515a2ae5e",
+  "accounts": {
+    "759619128d6b4389a6e90446af5afc1f": {
+      "username": "WeirdCat",
+      "userID": "WeirdCat",
+      "displayName": "WeirdCat",
+      "uuid": "759619128d6b4389a6e90446af5afc1f",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "759619128d6b4389a6e90446af5afc1f",
+  "freeAccountUUID": "759619128d6b4389a6e90446af5afc1f"
+}

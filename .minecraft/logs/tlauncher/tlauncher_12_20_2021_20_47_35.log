@@ -1,0 +1,345 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.82 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 20/12/2021 20:48:12
+Running folder C:\Users\Suturn\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 6074 MB RAM
+java path=C:\Users\Suturn\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+AMD Ryzen 5 3400G with Radeon Vega Graphics
+ AMD Radeon(TM) RX Vega 11 Graphics, AMD Radeon Graphics Processor (0x15D8), 5079 MB
+-------------------------------------------------------
+Selected locale: pt_PT
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.82&client=58c9f680-2261-48ed-ac80-620ef7b530f5
+[Updater] Request time: 969 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 67 / 90 MB
+Garbage collector completed: 19 / 90 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\Suturn\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\Suturn\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[Loading] LOADING_WINDOW
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 193 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[Downloader2] Loaded configuration: good
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index_pt.htm
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+Started! (28161 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 250 ms.
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 336 ms.
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 427 ms.
+[SkinVersionList] Got in 453 ms
+[ExtraVersionList] Got in 462 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 859 ms.
+[OfficialVersionList] Got in 954 ms
+[VersionManager] Versions has been refreshed (1273 ms)
+local server started
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 91 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 173 ms.
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index_pt.htm during 5
+[Browser@678621681] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index_pt.htm"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+AccountComboBox.validte pre game launch username Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat} FREE
+onAuthPassed
+saved account Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.82
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: 1.16.5
+[Launcher] Selected account: Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat}
+[Launcher] Version sync info: VersionSyncInfo{id='1.16.5',
+local=CompleteVersion{id='1.16.5', time=Wed Dec 15 12:44:04 BRT 2021, release=Thu Jan 14 13:05:32 BRT 2021, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.16', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@655e05b4, libraries=[Library{name='com.mojang:patchy:1.2.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:66.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:4.0.26', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:2.1.28', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@1fe7d9c0, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@4a2000cc, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.16.5', time=Wed Dec 15 12:44:04 BRT 2021, release=Thu Jan 14 13:05:32 BRT 2021, type=release, source=OFFICIAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@655e05b4}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\Suturn\AppData\Roaming\.minecraft\assets\indexes\1.16.json
+[AssetsManager] Fast comparing: true
+[Double running] clear time label
+[Launcher] finished comparing assets: 27425 ms.
+[TLauncherManager] add required libraries: 1.16.5
+[VersionManager] Required for version 1.16.5: []
+[TLauncherManager] add required libraries: 1.16.5
+Minecraft requires java version: 8, java path: C:\Users\Suturn\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (14 ms)
+[Launcher] Error occurred:
+org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher$MinecraftLauncherAborted: shown skin message
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.checkExtraConditions(MinecraftLauncher.java:705)
+at org.tlauncher.tlauncher.minecraft.launcher.MinecraftLauncher.start(MinecraftLauncher.java:264)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:509)
+at org.tlauncher.tlauncher.ui.login.LoginForm.runProcess(LoginForm.java:166)
+at org.tlauncher.tlauncher.ui.login.LoginForm.access$000(LoginForm.java:44)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.iterateOnce(LoginForm.java:384)
+at org.tlauncher.util.async.LoopedThread.run(LoopedThread.java:38)
+Thread called by: org.tlauncher.util.async.ExtendedThread$ExtendedThreadCaller
+at org.tlauncher.util.async.ExtendedThread.<init>(ExtendedThread.java:17)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:7)
+at org.tlauncher.util.async.LoopedThread.<init>(LoopedThread.java:11)
+at org.tlauncher.tlauncher.ui.login.LoginForm$StartThread.<init>(LoginForm.java:377)
+at org.tlauncher.tlauncher.ui.login.LoginForm.<init>(LoginForm.java:82)
+at org.tlauncher.tlauncher.ui.scenes.DefaultScene.<init>(DefaultScene.java:47)
+at org.tlauncher.tlauncher.ui.MainPane.<init>(MainPane.java:53)
+at org.tlauncher.tlauncher.ui.TLauncherFrame.<init>(TLauncherFrame.java:95)
+at org.tlauncher.tlauncher.rmo.TLauncher.launch(TLauncher.java:336)
+at org.tlauncher.tlauncher.rmo.TLauncher.main(TLauncher.java:210)
+
+[Launcher] Launcher exited.
+AccountComboBox.validte pre game launch username Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat} FREE
+onAuthPassed
+saved account Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.82
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+[Launcher] Force update: false
+[Launcher] Selected version: 1.16.5
+[Launcher] Selected account: Account{displayName=WeirdCat, userid=WeirdCat, uuid=759619128d6b4389a6e90446af5afc1f, username=WeirdCat}
+[Launcher] Version sync info: VersionSyncInfo{id='1.16.5',
+local=CompleteVersion{id='1.16.5', time=Wed Dec 15 12:44:04 BRT 2021, release=Thu Jan 14 13:05:32 BRT 2021, type=release, class=net.minecraft.client.main.Main, minimumVersion=21, assets='1.16', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@655e05b4, libraries=[Library{name='com.mojang:patchy:1.2.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j:66.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:javabridge:1.0.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.25.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:brigadier:1.0.17', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:datafixerupper:4.0.26', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:2.1.28', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:8.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-jemalloc:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-openal:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-opengl:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-glfw:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-tinyfd:3.2.1', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-macos}, extract=null, packed='null'}, Library{name='org.lwjgl:lwjgl-stb:3.2.2', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.11.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@67127f3e, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@6d0f31e0, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='1.16.5', time=Wed Dec 15 12:44:04 BRT 2021, release=Thu Jan 14 13:05:32 BRT 2021, type=release, source=OFFICIAL_VERSION_REPO, list=net.minecraft.launcher.updater.OfficialVersionList@655e05b4}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[Launcher] Checking conditions...
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\Suturn\AppData\Roaming\.minecraft\assets\indexes\1.16.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 277 ms.
+[TLauncherManager] add required libraries: 1.16.5
+[VersionManager] Required for version 1.16.5: []
+[TLauncherManager] add required libraries: 1.16.5
+Minecraft requires java version: 8, java path: C:\Users\Suturn\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[TLauncherManager] library will be replaced: com.mojang:authlib:2.1.28
+[TLauncherManager] library will be replaced: com.mojang:patchy:1.2.3
+[TLauncherManager] library will be added as required: net.minecraft:launchwrapper:1.12
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-commons:6.2
+[TLauncherManager] library will be added as required: org.ow2.asm:asm:6.2
+[TLauncherManager] library will be added as required: org.ow2.asm:asm-tree:6.2
+[TLauncherManager] library will be added: org.tlauncher:tl_skin_cape_1.16.5:1.19
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\Suturn\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M -Djava.library.path=C:\Users\Suturn\AppData\Roaming\.minecraft\versions\1.16.5\natives -Dminecraft.launcher.brand=minecraft-launcher -Dminecraft.launcher.version=2.0.1003 -cp C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\tlauncher\tl_skin_cape_1.16.5\1.19\tl_skin_cape_1.16.5-1.19.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-tree\6.2\asm-tree-6.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm\6.2\asm-6.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-commons\6.2\asm-commons-6.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\1.2.3\patchy-1.2.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.0.22\javabridge-1.0.22.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\2.0.28.1\authlib-2.0.28.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\Suturn\AppData\Roaming\.minecraft\versions\1.16.5\1.16.5.jar -Xmn128M -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\Suturn\AppData\Roaming\.minecraft net.minecraft.launchwrapper.Launch --username WeirdCat --version 1.16.5 --gameDir C:\Users\Suturn\AppData\Roaming\.minecraft --assetsDir C:\Users\Suturn\AppData\Roaming\.minecraft\assets --assetIndex 1.16 --uuid 759619128d6b4389a6e90446af5afc1f --accessToken null --userType mojang --versionType release --width 925 --height 530 --tweakClass org.tlauncher.tweaker.Tweaker
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after 
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=Servidor de Minecraft, address=mc.argarian.net, ip=mc.argarian.net, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=mc.universocraft.com, ip=mc.universocraft.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=blocksmc.com, ip=blocksmc.com, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=Jartexnetwork.com, ip=Jartexnetwork.com, port=null, hideAddress=false, acceptTextures=1), Server(name=Servidor de Minecraft, address=replay.craftlandia.com.br, ip=replay.craftlandia.com.br, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=jogar.absolutgg.com.br, ip=jogar.absolutgg.com.br, port=null, hideAddress=false, acceptTextures=0), Server(name=Servidor de Minecraft, address=playnetwork.com.br, ip=playnetwork.com.br, port=null, hideAddress=false, acceptTextures=0)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft 1.16.5...
+[Launcher] Launching in: C:\Users\Suturn\AppData\Roaming\.minecraft
+Starting garbage collector: 77 / 247 MB
+Garbage collector completed: 39 / 255 MB
+[Launcher] Processing post-launch actions. Assist launch: true
+===============================================================================================
+[21:50:50] [main/INFO]: Loading tweak class name org.tlauncher.tweaker.Tweaker
+[21:50:50] [main/INFO]: Using primary tweak class name org.tlauncher.tweaker.Tweaker
+[21:50:50] [main/INFO]: Calling tweak class org.tlauncher.tweaker.Tweaker
+Log Path: C:\Users\Suturn\AppData\Roaming\.minecraft\.\tlLoader\Tweaker.log
+[main INFO] Using Tweaker
+[main INFO] Tweaker: acceptOptions
+[main INFO] Tweaker: injectIntoClassLoader
+[TLSkinCape] Current TLSkinCape version is 1.19
+[TLSkinCape] Current Minecraft version is 1.16.5.
+[main INFO] Loaded as a library.
+[main INFO] Tweaker: getLaunchArguments
+[main INFO] Tweaker: getLaunchTarget
+[Injection] Injection into net.minecraft.client.main.Main ended successfully with 1 injections.
+[21:50:51] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[Injection] Injection into doy ended successfully with 1 injections.
+[Injection] Injection into djz ended successfully with 1 injections.
+[Injection] Injection into dzj ended successfully with 1 injections.
+[21:51:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:51:07] [main/INFO]: Setting user: WeirdCat
+[21:51:08] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[Injection] Injection into dvd ended successfully with 1 injections.
+[Injection] Injection into ehu ended successfully with 1 injections.
+[21:51:16] [main/INFO]: Narrator library for x64 successfully loaded
+[21:51:17] [main/INFO]: Reloading ResourceManager: Default
+[21:51:21] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:51:29] [main/INFO]: OpenAL initialized.
+[21:51:29] [main/INFO]: Sound engine started
+[21:51:30] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[21:51:30] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[21:51:30] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:51:30] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:51:30] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:51:30] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:51:30] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:51:31] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:51:32] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:51:32] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:54:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:54:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:54:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:54:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:54:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:54:05] [main/INFO]: Reloading ResourceManager: Default
+[21:54:06] [main/INFO]: Loaded 7 recipes
+[21:54:06] [main/INFO]: Loaded 927 advancements
+[21:54:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:54:07] [Server thread/INFO]: Starting integrated minecraft server version 1.16.5
+[21:54:07] [Server thread/INFO]: Generating keypair
+[21:54:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:54:11] [main/INFO]: Preparando �rea de nascimento: 0%
+[21:54:12] [main/INFO]: Preparando �rea de nascimento: 0%
+[21:54:12] [main/INFO]: Preparando �rea de nascimento: 0%
+[21:54:13] [main/INFO]: Preparando �rea de nascimento: 3%
+[21:54:13] [main/INFO]: Preparando �rea de nascimento: 5%
+[21:54:14] [main/INFO]: Preparando �rea de nascimento: 9%
+[21:54:14] [main/INFO]: Preparando �rea de nascimento: 11%
+[21:54:15] [main/INFO]: Preparando �rea de nascimento: 15%
+[21:54:15] [main/INFO]: Preparando �rea de nascimento: 15%
+[21:54:16] [main/INFO]: Preparando �rea de nascimento: 20%
+[21:54:16] [main/INFO]: Preparando �rea de nascimento: 20%
+[21:54:17] [main/INFO]: Preparando �rea de nascimento: 26%
+[21:54:17] [main/INFO]: Preparando �rea de nascimento: 26%
+[21:54:18] [main/INFO]: Preparando �rea de nascimento: 33%
+[21:54:18] [main/INFO]: Preparando �rea de nascimento: 35%
+[21:54:19] [main/INFO]: Preparando �rea de nascimento: 35%
+[21:54:19] [main/INFO]: Preparando �rea de nascimento: 42%
+[21:54:20] [main/INFO]: Preparando �rea de nascimento: 42%
+[21:54:20] [main/INFO]: Preparando �rea de nascimento: 42%
+[21:54:21] [main/INFO]: Preparando �rea de nascimento: 55%
+[21:54:21] [main/INFO]: Preparando �rea de nascimento: 60%
+[21:54:22] [main/INFO]: Preparando �rea de nascimento: 68%
+[21:54:22] [main/INFO]: Preparando �rea de nascimento: 73%
+[21:54:23] [main/INFO]: Preparando �rea de nascimento: 79%
+[21:54:23] [main/INFO]: Preparando �rea de nascimento: 84%
+[21:54:24] [main/INFO]: Preparando �rea de nascimento: 91%
+[21:54:24] [main/INFO]: Preparando �rea de nascimento: 94%
+[21:54:25] [main/INFO]: Time elapsed: 13317 ms
+[21:54:25] [Server thread/INFO]: Changing view distance to 11, from 10
+[21:54:27] [Server thread/INFO]: WeirdCat[local:E:4e7f7bf0] logged in with entity id 340 at (-191.5, 72.0, 248.5)
+[21:54:27] [Server thread/INFO]: WeirdCat entrou na partida
+[21:54:28] [Server thread/INFO]: Saving and pausing game...
+[21:54:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[21:54:28] [main/INFO]: Loaded 0 advancements
+[21:54:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[21:54:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[21:54:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3039ms or 60 ticks behind
+[21:54:31] [main/INFO]: textures 'cape_test_272' was added, skin: false,cape: true, max waiting: 59 ,during : 219752 
+[21:54:31] [main/INFO]: calculated cape performance:TEXTURE_136, middle time: 15.0
+[21:54:32] [main/INFO]: can use texture size:TEXTURE_272, middle time: 7.4
+[21:54:56] [Server thread/INFO]: Saving and pausing game...
+[21:54:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[21:54:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[21:54:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[21:56:41] [Server thread/INFO]: [WeirdCat: O modo de jogo foi definido para Criativo]
+[21:56:41] [main/INFO]: [CHAT] O modo de jogo foi definido para Criativo
+[21:58:23] [main/INFO]: Loaded 7 advancements
+[22:01:20] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[22:03:24] [main/INFO]: Loaded 25 advancements
+[22:06:07] [Server thread/INFO]: Saving and pausing game...
+[22:06:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[22:06:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[22:06:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[22:07:11] [Server thread/INFO]: Saving and pausing game...
+[22:07:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[22:07:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[22:07:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[22:08:00] [main/INFO]: Loaded 31 advancements
+[22:08:04] [main/INFO]: Loaded 43 advancements
+[22:08:26] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[22:08:29] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[22:08:31] [Server thread/INFO]: Saving and pausing game...
+[22:08:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[22:08:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[22:08:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[22:08:56] [Server thread/INFO]: Saving and pausing game...
+[22:08:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[22:08:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[22:08:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[22:09:27] [Server thread/INFO]: Saving and pausing game...
+[22:09:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[22:09:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[22:09:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[22:10:19] [Server thread/INFO]: Saving and pausing game...
+[22:10:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[22:10:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[22:10:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[22:10:41] [main/INFO]: Loaded 45 advancements
+[22:10:42] [main/INFO]: Loaded 46 advancements
+[22:11:09] [Server thread/INFO]: Saving and pausing game...
+[22:11:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[22:11:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[22:11:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[22:11:24] [Server thread/INFO]: WeirdCat conquistou o progresso [Ca�ador de monstros]
+[22:11:24] [main/INFO]: [CHAT] WeirdCat conquistou o progresso [Ca�ador de monstros]
+[22:11:24] [main/INFO]: Loaded 63 advancements
+[22:11:25] [main/INFO]: Loaded 69 advancements
+[22:11:42] [main/INFO]: Loaded 88 advancements
+[22:12:39] [main/INFO]: Loaded 91 advancements
+[22:13:17] [Server thread/INFO]: Saving and pausing game...
+[22:13:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[22:13:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[22:13:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[22:16:31] [main/INFO]: Stopping!
+[22:16:32] [Server thread/INFO]: WeirdCat lost connection: Desconectado
+[22:16:32] [Server thread/INFO]: WeirdCat saiu da partida
+[22:16:32] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:16:32] [Server thread/INFO]: Stopping server
+[22:16:32] [Server thread/INFO]: Saving players
+[22:16:32] [Server thread/INFO]: Saving worlds
+[22:16:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:overworld
+[22:16:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (Mundo da Heloise): All chunks are saved
+[22:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_nether
+[22:16:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Mundo da Heloise]'/minecraft:the_end
+[22:16:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:16:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Mundo da Heloise): All chunks are saved
+[22:16:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:16:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+Here I am!
+[VersionManager] Refreshing versions locally...
+[VersionManager] Versions has been refreshed (6505 ms)
+[Launcher] Launcher exited.
+[Launcher] Minecraft closed with exit code: 0
+Good bye!
+[Double running] clear time label
+[TLauncherManager] before clearLibrary 
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary 
+flush now
